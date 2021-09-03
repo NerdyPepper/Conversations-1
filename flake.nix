@@ -72,7 +72,10 @@
         mavenRepo = buildMavenRepo {
           name = "nix-maven-repo";
           repos = [
+            "https://jcenter.bintray.com"
             "https://plugins.gradle.org/m2"
+            "https://raw.github.com/abdularis/libwebrtc-android/repo/"
+            "https://maven.google.com"
             "https://repo1.maven.org/maven2"
           ];
           deps = builtins.fromJSON (builtins.readFile ./deps.json);
@@ -81,18 +84,20 @@
         jdk = pkgs.adoptopenjdk-jre-openj9-bin-15;
       in
       rec {
-        packages.conversations = stdenv.mkDerivation {
+        packages.conversations = pkgs.stdenv.mkDerivation {
           pname = "conversations";
           version = "0.0.0";
+          src = ./.;
           nativeBuildInputs = [ gradle ];
           JDK_HOME = "${jdk.home}";
 
           buildPhase = ''
             runHook preBuild
-            gradle build \
+            gradle --stop
+            gradle assembleConversationsFreeSystemDebug \
             --offline --no-daemon --no-build-cache --info --full-stacktrace \
             --warning-mode=all --parallel --console=plain \
-            -DnixMavenRepo=file://${mavenRepo}
+             -Dmaven.repo.local='file://${mavenRepo}' \
             runHook postBuild
           '';
 
@@ -116,7 +121,7 @@
         };
         devShell = pkgs.mkShell (rec {
           nativeBuildInputs = [
-            # sdk
+            sdk
             jdk
             gradle
             updateLocks
@@ -125,6 +130,7 @@
             pkgs.scrcpy
           ];
           ANDROID_SDK_ROOT = "${sdk}/libexec/android-sdk";
+          ANDROID_HOME = "${ANDROID_SDK_ROOT}";
           JAVA_HOME = jdk.home;
           LANG = "C.UTF-8";
           LC_ALL = "C.UTF-8";

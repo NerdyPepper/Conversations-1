@@ -18,6 +18,9 @@ repositories {
     google()
     mavenCentral()
     jcenter()
+    maven {
+        url 'https://raw.github.com/abdularis/libwebrtc-android/repo/'
+    }
 }
 
 configurations {
@@ -79,6 +82,8 @@ dependencies {
     implementation 'com.google.guava:guava:30.1.1-android'
     quicksyImplementation 'io.michaelrocks:libphonenumber-android:8.12.18'
     implementation fileTree(include: ['libwebrtc-m90.aar'], dir: 'libs')
+
+    implementation 'com.aar.app:google-webrtc:M83'
 }
 
 ext {

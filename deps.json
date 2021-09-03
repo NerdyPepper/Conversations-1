@@ -1,0 +1,2407 @@
+[
+  {
+    "group": "androidx.activity",
+    "name": "activity",
+    "version": "1.0.0",
+    "artifacts": {
+      "activity-1.0.0.aar": "d1bc9842455c2e534415d88c44df4d52413b478db9093a1ba36324f705f44c3d",
+      "activity-1.0.0.pom": "27a4be7462629c312da0b831a0978d2076fc34074145fb61dd4e86d7c8469b82"
+    }
+  },
+  {
+    "group": "androidx.annotation",
+    "name": "annotation",
+    "version": "1.0.0",
+    "artifacts": {
+      "annotation-1.0.0.pom": "a179c12db43d9c0300c9db63f4811db496504be5401b951d422b78490ad1e5b4"
+    }
+  },
+  {
+    "group": "androidx.annotation",
+    "name": "annotation",
+    "version": "1.1.0",
+    "artifacts": {
+      "annotation-1.1.0.jar": "d38d63edb30f1467818d50aaf05f8a692dea8b31392a049bfa991b159ad5b692",
+      "annotation-1.1.0.pom": "2e9372ba7780ef44952adbf86b66e1f08682c1e5277c926185f6564a13799efe"
+    }
+  },
+  {
+    "group": "androidx.annotation",
+    "name": "annotation-experimental",
+    "version": "1.0.0",
+    "artifacts": {
+      "annotation-experimental-1.0.0.aar": "b219d2b568e7e4ba534e09f8c2fd242343df6ccbdfbbe938846f5d740e6b0b11",
+      "annotation-experimental-1.0.0.pom": "6b73ff6608f4b1d6cbab620b65708a382d0b39901cf4e6b0d16f84a1b04d7732"
+    }
+  },
+  {
+    "group": "androidx.appcompat",
+    "name": "appcompat",
+    "version": "1.2.0",
+    "artifacts": {
+      "appcompat-1.2.0.aar": "3d2131a55a61a777322e2126e0018011efa6339e53b44153eb651b16020cca70",
+      "appcompat-1.2.0.module": "2670902fc6c26047c42e0f60ee34656fa071841db370de958198413b5ab58fc3"
+    }
+  },
+  {
+    "group": "androidx.appcompat",
+    "name": "appcompat-resources",
+    "version": "1.2.0",
+    "artifacts": {
+      "appcompat-resources-1.2.0.aar": "c470297c03ff3de1c3d15dacf0be0cae63abc10b52f021dd07ae28daa3100fe5",
+      "appcompat-resources-1.2.0.module": "75d9865bc6b0f779043b4f6523a944bd2ccb7526f5c1f5ef24624ac78dec3bd3"
+    }
+  },
+  {
+    "group": "androidx.arch.core",
+    "name": "core-common",
+    "version": "2.0.0",
+    "artifacts": {
+      "core-common-2.0.0.pom": "4b6f1d459ddd146b4e85ed6d46e86eb8c2639c5de47904e6db4d698721334220"
+    }
+  },
+  {
+    "group": "androidx.arch.core",
+    "name": "core-common",
+    "version": "2.1.0",
+    "artifacts": {
+      "core-common-2.1.0.jar": "fe1237bf029d063e7f29fe39aeaf73ef74c8b0a3658486fc29d3c54326653889",
+      "core-common-2.1.0.pom": "83bbb3960eaabc600ac366c94cb59414e441532a1d6aa9388b0b8bfface5cf01"
+    }
+  },
+  {
+    "group": "androidx.arch.core",
+    "name": "core-runtime",
+    "version": "2.0.0",
+    "artifacts": {
+      "core-runtime-2.0.0.aar": "87e65fc767c712b437649c7cee2431ebb4bed6daef82e501d4125b3ed3f65f8e",
+      "core-runtime-2.0.0.pom": "e2007d41ddc69ee2a77fed7b5c1dc5a41e01122926ba59696aab7b18d2264411"
+    }
+  },
+  {
+    "group": "androidx.cardview",
+    "name": "cardview",
+    "version": "1.0.0",
+    "artifacts": {
+      "cardview-1.0.0.aar": "1193c04c22a3d6b5946dae9f4e8c59d6adde6a71b6bd5d87fb99d82dda1afec7",
+      "cardview-1.0.0.pom": "e64ef4e08b58358fe27b599e6fe80a1b153db014c644beee630ab271061c3e6c"
+    }
+  },
+  {
+    "group": "androidx.collection",
+    "name": "collection",
+    "version": "1.0.0",
+    "artifacts": {
+      "collection-1.0.0.pom": "a7913a5275ad68e555d2612ebe8c14c367b153e14ca48a1872a64899020e54ef"
+    }
+  },
+  {
+    "group": "androidx.collection",
+    "name": "collection",
+    "version": "1.1.0",
+    "artifacts": {
+      "collection-1.1.0.jar": "632a0e5407461de774409352940e292a291037724207a787820c77daf7d33b72",
+      "collection-1.1.0.pom": "67e9066ca4acfdc6e3cc508293c31ba0398057ff118e4f70b1e1813c9a3456d1"
+    }
+  },
+  {
+    "group": "androidx.constraintlayout",
+    "name": "constraintlayout",
+    "version": "2.0.1",
+    "artifacts": {
+      "constraintlayout-2.0.1.aar": "ec15b5d4a2eff07888bc1499ce2e2c6efe24c0ed60cc57b08c9dc4b6fd3c2189",
+      "constraintlayout-2.0.1.pom": "e25665eff711bb3f6511e86a143f9f3bd2b46a7fe571bf9e114cfc299c1df307"
+    }
+  },
+  {
+    "group": "androidx.constraintlayout",
+    "name": "constraintlayout-solver",
+    "version": "2.0.1",
+    "artifacts": {
+      "constraintlayout-solver-2.0.1.jar": "b23732edbb3511d937fea1ffef047b0e6c001b50c1921f0d959fc384d706ec6a",
+      "constraintlayout-solver-2.0.1.pom": "81beab01fd168168c6f8428a13359ab3fc2f406740a96f6d9121e807a3baeddb"
+    }
+  },
+  {
+    "group": "androidx.coordinatorlayout",
+    "name": "coordinatorlayout",
+    "version": "1.1.0",
+    "artifacts": {
+      "coordinatorlayout-1.1.0.aar": "44a9e30abf56af1025c52a0af506fee9c4131aa55efda52f9fd9451211c5e8cb",
+      "coordinatorlayout-1.1.0.pom": "a67c52c9ddfaff2ffb2fd4b97cd94fa382e837ea8a5874d029e0a04fa63e5caf"
+    }
+  },
+  {
+    "group": "androidx.core",
+    "name": "core",
+    "version": "1.0.0",
+    "artifacts": {
+      "core-1.0.0.pom": "384d529ad668ada4808de29b29a6348f0007c2841ad79cae9a5a089bd68810f5"
+    }
+  },
+  {
+    "group": "androidx.core",
+    "name": "core",
+    "version": "1.3.0",
+    "artifacts": {
+      "core-1.3.0.pom": "3ea5d60db139d9fbc5c5f7ac06d779fb75dafe71b0931bc9db863231294bc2d5"
+    }
+  },
+  {
+    "group": "androidx.core",
+    "name": "core",
+    "version": "1.3.1",
+    "artifacts": {
+      "core-1.3.1.aar": "e92ea65a37d589943d405a6a54d1be9d12a225948f26c4e41e511dd55e81efb6",
+      "core-1.3.1.pom": "ac850f5367d0877c58d3fc9439b453ea293cf5f840fc043d535085a0cdf4eafb"
+    }
+  },
+  {
+    "group": "androidx.cursoradapter",
+    "name": "cursoradapter",
+    "version": "1.0.0",
+    "artifacts": {
+      "cursoradapter-1.0.0.aar": "a81c8fe78815fa47df5b749deb52727ad11f9397da58b16017f4eb2c11e28564",
+      "cursoradapter-1.0.0.pom": "62d95c89850af21030b19f14d5f7ecd6d8bcc9a3014c59002ec99624caac8100"
+    }
+  },
+  {
+    "group": "androidx.customview",
+    "name": "customview",
+    "version": "1.0.0",
+    "artifacts": {
+      "customview-1.0.0.aar": "20e5b8f6526a34595a604f56718da81167c0b40a7a94a57daa355663f2594df2",
+      "customview-1.0.0.pom": "ce9e47b87184f5bd5e139e9becd5b26476d42d78c31bf2fdedc37acb41b9ad49"
+    }
+  },
+  {
+    "group": "androidx.databinding",
+    "name": "databinding-adapters",
+    "version": "4.2.1",
+    "artifacts": {
+      "databinding-adapters-4.2.1.aar": "22e04b80e6e062321961b2b023304fb2f8e2a89dca7604119b38f92c8d7f92fd",
+      "databinding-adapters-4.2.1.pom": "ba31472a8eba731f845e7bd3106ae8982ebb91a7760361a765e761b37303fd8d"
+    }
+  },
+  {
+    "group": "androidx.databinding",
+    "name": "databinding-common",
+    "version": "4.2.1",
+    "artifacts": {
+      "databinding-common-4.2.1.jar": "4c10017bc927f42627397c4ad2ab46b3bdb9b28e4e86c0bdb62d898aeeff1415",
+      "databinding-common-4.2.1.module": "935d6531bfdde37de53b6a4838f0006f3861e92904a3f46ff3c2b4286066955a"
+    }
+  },
+  {
+    "group": "androidx.databinding",
+    "name": "databinding-compiler",
+    "version": "4.2.1",
+    "artifacts": {
+      "databinding-compiler-4.2.1.jar": "3825d65be3762d0c54e74d0a49e9ddd33831b94347e18723989a509d2bebc9e4",
+      "databinding-compiler-4.2.1.module": "27490c5b256fecd339569ac6474ef4494d82c4b3258d4b2c9fba1a7382a98a01"
+    }
+  },
+  {
+    "group": "androidx.databinding",
+    "name": "databinding-compiler-common",
+    "version": "4.2.1",
+    "artifacts": {
+      "databinding-compiler-common-4.2.1.jar": "f387c65ebf3b413a89b640fe106c9b8b5165f787637bbf8840b7803f97e9ed48",
+      "databinding-compiler-common-4.2.1.module": "8973cee818f0e49401f8d38fdc7a2360a5db15f807f982800943a7aa53e669cb"
+    }
+  },
+  {
+    "group": "androidx.databinding",
+    "name": "databinding-runtime",
+    "version": "4.2.1",
+    "artifacts": {
+      "databinding-runtime-4.2.1.aar": "69788b2f592d4054efa0bf785c5aeb42dcca75f1e17276364ece9f1388eb75d8",
+      "databinding-runtime-4.2.1.pom": "afb8ecc2cf6d1cd5167a20510c859364114d63352ef47f08f51bb8823fd2b5a3"
+    }
+  },
+  {
+    "group": "androidx.databinding",
+    "name": "viewbinding",
+    "version": "4.2.1",
+    "artifacts": {
+      "viewbinding-4.2.1.aar": "77f1b93fc5fb997889c8fa8aba387575c836970d9a9fadc96a3929ab80022b98",
+      "viewbinding-4.2.1.pom": "760b1f6ecb15dd327dfdca29b5a710a4b4984dabb80b06b0b07e488f8e167249"
+    }
+  },
+  {
+    "group": "androidx.documentfile",
+    "name": "documentfile",
+    "version": "1.0.0",
+    "artifacts": {
+      "documentfile-1.0.0.aar": "865a061ef2fad16522f8433536b8d47208c46ff7c7745197dfa1eeb481869487",
+      "documentfile-1.0.0.pom": "013288a9317a552706ce625fb24493e8223288529223ec578cf855a5ae9c16e5"
+    }
+  },
+  {
+    "group": "androidx.drawerlayout",
+    "name": "drawerlayout",
+    "version": "1.0.0",
+    "artifacts": {
+      "drawerlayout-1.0.0.aar": "9402442cdc5a43cf62fb14f8cf98c63342d4d9d9b805c8033c6cf7e802749ac1",
+      "drawerlayout-1.0.0.pom": "da6733425a83f5ce850878fa7201082345fed7c668dd58550fdd19c0396c6fa4"
+    }
+  },
+  {
+    "group": "androidx.dynamicanimation",
+    "name": "dynamicanimation",
+    "version": "1.0.0",
+    "artifacts": {
+      "dynamicanimation-1.0.0.aar": "ce005162c229bf308d2d5b12fb6cad0874069cbbeaccee63a8193bd08d40de04",
+      "dynamicanimation-1.0.0.pom": "44ce22ee620d28f17301bcc60ad49b69b7d0596c2a87b054ad1e3feac7b4a898"
+    }
+  },
+  {
+    "group": "androidx.emoji",
+    "name": "emoji",
+    "version": "1.1.0",
+    "artifacts": {
+      "emoji-1.1.0.aar": "45af6aa4bba51c51e1daca981f27f5f08ed73831e25c97791d59b3d84651e335",
+      "emoji-1.1.0.pom": "283f7bfb5fbbc5ab9a71c9b786d2bbde784cc81cf30ee574ce484c35df95eaf5"
+    }
+  },
+  {
+    "group": "androidx.emoji",
+    "name": "emoji-appcompat",
+    "version": "1.1.0",
+    "artifacts": {
+      "emoji-appcompat-1.1.0.aar": "040bbc239a0b591aa1846df20171450872f7e454d7f7be776ae825ccd6b38da8",
+      "emoji-appcompat-1.1.0.pom": "1796367b10698d139d2e57d048243df17521ec7c0740ff32479647b04a2317e2"
+    }
+  },
+  {
+    "group": "androidx.emoji",
+    "name": "emoji-bundled",
+    "version": "1.1.0",
+    "artifacts": {
+      "emoji-bundled-1.1.0.aar": "97f1b232869e43d90213758f0a13f687d6d3b250081fcd0b9028a75f08a0b66c",
+      "emoji-bundled-1.1.0.pom": "e5a21e2342e94500c7bb5ca6b20035402475a945f0b73d197685c41116a16ac9"
+    }
+  },
+  {
+    "group": "androidx.exifinterface",
+    "name": "exifinterface",
+    "version": "1.3.2",
+    "artifacts": {
+      "exifinterface-1.3.2.aar": "8770c180103e0b8c04a07eb4c59153af639b09eca25deae9bdcdaf869d1e5b6b",
+      "exifinterface-1.3.2.module": "10ba5b5cbea7f5c8758be4fdaec60a3545e891a1130d830a442b88cf5336a885"
+    }
+  },
+  {
+    "group": "androidx.fragment",
+    "name": "fragment",
+    "version": "1.1.0",
+    "artifacts": {
+      "fragment-1.1.0.aar": "a14c8b8f2153f128e800fbd266a6beab1c283982a29ec570d2cc05d307d81496",
+      "fragment-1.1.0.pom": "ef78eb27ac02ddf3545d5f8a3857c73a2837a01853f8d5fcf77251011db52544"
+    }
+  },
+  {
+    "group": "androidx.interpolator",
+    "name": "interpolator",
+    "version": "1.0.0",
+    "artifacts": {
+      "interpolator-1.0.0.aar": "33193135a64fe21fa2c35eec6688f1a76e512606c0fc83dc1b689e37add7732a",
+      "interpolator-1.0.0.pom": "0ddc07cc39699f48ecd9ec894b5830c0f09e22e82959294edf37217224c88b7b"
+    }
+  },
+  {
+    "group": "androidx.legacy",
+    "name": "legacy-support-core-ui",
+    "version": "1.0.0",
+    "artifacts": {
+      "legacy-support-core-ui-1.0.0.pom": "2baaf7f17551765524bd1e4d2f954a2a0178a112039cf549ba8b7d4b41e66931"
+    }
+  },
+  {
+    "group": "androidx.legacy",
+    "name": "legacy-support-core-utils",
+    "version": "1.0.0",
+    "artifacts": {
+      "legacy-support-core-utils-1.0.0.aar": "a7edcf01d5b52b3034073027bc4775b78a4764bb6202bb91d61c829add8dd1c7",
+      "legacy-support-core-utils-1.0.0.pom": "8fd093008b3ee7c06e52c78da2af980a7b47b69b967fa91dad7af466f7a00a38"
+    }
+  },
+  {
+    "group": "androidx.lifecycle",
+    "name": "lifecycle-common",
+    "version": "2.0.0",
+    "artifacts": {
+      "lifecycle-common-2.0.0.pom": "04d525073469214d0c99e81aaa875dd548ba32b82945abd8326bc50229df700d"
+    }
+  },
+  {
+    "group": "androidx.lifecycle",
+    "name": "lifecycle-common",
+    "version": "2.1.0",
+    "artifacts": {
+      "lifecycle-common-2.1.0.jar": "76db6be533bd730fb361c2feb12a2c26d9952824746847da82601ef81f082643",
+      "lifecycle-common-2.1.0.pom": "692c2a60437a95220c8fbb6e8943196f255f535d1a7c58714e6c46530782f276"
+    }
+  },
+  {
+    "group": "androidx.lifecycle",
+    "name": "lifecycle-livedata",
+    "version": "2.0.0",
+    "artifacts": {
+      "lifecycle-livedata-2.0.0.aar": "c82609ced8c498f0a701a30fb6771bb7480860daee84d82e0a81ee86edf7ba39",
+      "lifecycle-livedata-2.0.0.pom": "a84842ffc0f14e518db75c05cc112680a8a4a164fa78395be32d88304a439423"
+    }
+  },
+  {
+    "group": "androidx.lifecycle",
+    "name": "lifecycle-livedata-core",
+    "version": "2.0.0",
+    "artifacts": {
+      "lifecycle-livedata-core-2.0.0.aar": "fde334ec7e22744c0f5bfe7caf1a84c9d717327044400577bdf9bd921ec4f7bc",
+      "lifecycle-livedata-core-2.0.0.pom": "650fda1a232f5669742140571570ccad2f47a71225ab0f02179bc8d144b982c8"
+    }
+  },
+  {
+    "group": "androidx.lifecycle",
+    "name": "lifecycle-runtime",
+    "version": "2.0.0",
+    "artifacts": {
+      "lifecycle-runtime-2.0.0.pom": "a92a46fa7aec8ac326a5d578734a2d5b63206976996b9e06cae171b35b0ab6de"
+    }
+  },
+  {
+    "group": "androidx.lifecycle",
+    "name": "lifecycle-runtime",
+    "version": "2.1.0",
+    "artifacts": {
+      "lifecycle-runtime-2.1.0.aar": "e5173897b965e870651e83d9d5af1742d3f532d58863223a390ce3a194c8312b",
+      "lifecycle-runtime-2.1.0.pom": "af8dcf02db2d79bcd4b53d6be8dbf37d79a32b38a1dfcaebbbd8766e0d959fcb"
+    }
+  },
+  {
+    "group": "androidx.lifecycle",
+    "name": "lifecycle-viewmodel",
+    "version": "2.0.0",
+    "artifacts": {
+      "lifecycle-viewmodel-2.0.0.pom": "60b758fd1c664089f82d1c018ed4ff7955c14a2b1620af7aa106591f733e0827"
+    }
+  },
+  {
+    "group": "androidx.lifecycle",
+    "name": "lifecycle-viewmodel",
+    "version": "2.1.0",
+    "artifacts": {
+      "lifecycle-viewmodel-2.1.0.aar": "ba55fb7ac1b2828d5327cda8acf7085d990b2b4c43ef336caa67686249b8523d",
+      "lifecycle-viewmodel-2.1.0.pom": "29aa72e339c3e227e74c973a4c85c7b79c926f0d37b61ed94f4d99a137c9a4b4"
+    }
+  },
+  {
+    "group": "androidx.loader",
+    "name": "loader",
+    "version": "1.0.0",
+    "artifacts": {
+      "loader-1.0.0.aar": "11f735cb3b55c458d470bed9e25254375b518b4b1bad6926783a7026db0f5025",
+      "loader-1.0.0.pom": "c978d550808b47434aa49a63164110a50b55b0bcc6160a93a2e37d5110df8c5e"
+    }
+  },
+  {
+    "group": "androidx.localbroadcastmanager",
+    "name": "localbroadcastmanager",
+    "version": "1.0.0",
+    "artifacts": {
+      "localbroadcastmanager-1.0.0.aar": "e71c328ceef5c4a7d76f2d86df1b65d65fe2acf868b1a4efd84a3f34336186d8",
+      "localbroadcastmanager-1.0.0.pom": "a000041f5a1f79283c5175e1bb60cf3683780f401c6a9d34fbe9751253fa6ff9"
+    }
+  },
+  {
+    "group": "androidx.print",
+    "name": "print",
+    "version": "1.0.0",
+    "artifacts": {
+      "print-1.0.0.aar": "1d5c7f3135a1bba661fc373fd72e11eb0a4adbb3396787826dd8e4190d5d9edd",
+      "print-1.0.0.pom": "62482c0594841bee24bb996abb6cb7b320a6a3b77dca9f0a0ba4fe3be5530aa7"
+    }
+  },
+  {
+    "group": "androidx.recyclerview",
+    "name": "recyclerview",
+    "version": "1.0.0",
+    "artifacts": {
+      "recyclerview-1.0.0.pom": "8831c06417fab6a9690c25f6e4b347b2e8c03cf6d47337be9c57e75b7fb23e6a"
+    }
+  },
+  {
+    "group": "androidx.recyclerview",
+    "name": "recyclerview",
+    "version": "1.1.0",
+    "artifacts": {
+      "recyclerview-1.1.0.aar": "f0d2b5a67d0a91ee1b1c73ef2b636a81f3563925ddd15a1d4e1c41ec28de7a4f",
+      "recyclerview-1.1.0.pom": "fe321062a6e4e168b9c2b39a1137564c8784a2e5849402729768d5d7c4d972ef"
+    }
+  },
+  {
+    "group": "androidx.savedstate",
+    "name": "savedstate",
+    "version": "1.0.0",
+    "artifacts": {
+      "savedstate-1.0.0.aar": "2510a5619c37579c9ce1a04574faaf323cd0ffe2fc4e20fa8f8f01e5bb402e83",
+      "savedstate-1.0.0.pom": "844d7d22fcea798c78bf5559229daf88ec9cad8136f5eea0a29aa76b3f8fde7c"
+    }
+  },
+  {
+    "group": "androidx.swiperefreshlayout",
+    "name": "swiperefreshlayout",
+    "version": "1.1.0",
+    "artifacts": {
+      "swiperefreshlayout-1.1.0.aar": "2ce7906cd1dea05aec81975db22d54382359c05a21b2527ad848bc60f6b27293",
+      "swiperefreshlayout-1.1.0.pom": "0b8c55ce6910155a283ba98a6d094be6e0ef5e70a7371cd9fe9f71bf8ffd24ad"
+    }
+  },
+  {
+    "group": "androidx.transition",
+    "name": "transition",
+    "version": "1.2.0",
+    "artifacts": {
+      "transition-1.2.0.aar": "a1e059b3bc0b43a58dec0efecdcaa89c82d2bca552ea5bacf6656c46e853157e",
+      "transition-1.2.0.pom": "247f12757acabd706b069445fd31c83c016cc7fe67b0468c582d043ea7d20de1"
+    }
+  },
+  {
+    "group": "androidx.vectordrawable",
+    "name": "vectordrawable",
+    "version": "1.1.0",
+    "artifacts": {
+      "vectordrawable-1.1.0.aar": "46fd633ac01b49b7fcabc263bf098c5a8b9e9a69774d234edcca04fb02df8e26",
+      "vectordrawable-1.1.0.pom": "5b0e2d5b2179e54804785cbc21ce5f473b5e1ddd55a57da482e94dcd39492bb2"
+    }
+  },
+  {
+    "group": "androidx.vectordrawable",
+    "name": "vectordrawable-animated",
+    "version": "1.1.0",
+    "artifacts": {
+      "vectordrawable-animated-1.1.0.aar": "76da2c502371d9c38054df5e2b248d00da87809ed058f3363eae87ce5e2403f8",
+      "vectordrawable-animated-1.1.0.pom": "276a20116b705fb75b9003ee9496c56f6fd3b32375fb232472811eba60a040bd"
+    }
+  },
+  {
+    "group": "androidx.versionedparcelable",
+    "name": "versionedparcelable",
+    "version": "1.1.0",
+    "artifacts": {
+      "versionedparcelable-1.1.0.aar": "9a1d77140ac222b7866b5054ee7d159bc1800987ed2d46dd6afdd145abb710c1",
+      "versionedparcelable-1.1.0.pom": "c729c7be0cc06323bda829d460666e79dbd43b799a21089a44bd3b293dc253b5"
+    }
+  },
+  {
+    "group": "androidx.viewpager",
+    "name": "viewpager",
+    "version": "1.0.0",
+    "artifacts": {
+      "viewpager-1.0.0.aar": "147af4e14a1984010d8f155e5e19d781f03c1d70dfed02a8e0d18428b8fc8682",
+      "viewpager-1.0.0.pom": "1f72f836339d03c6eb013f65075e76ca87075a577578eb4f95f74a3a5d253128"
+    }
+  },
+  {
+    "group": "androidx.viewpager2",
+    "name": "viewpager2",
+    "version": "1.0.0",
+    "artifacts": {
+      "viewpager2-1.0.0.aar": "e95c0031d4cc247cd48196c6287e58d2cee54d9c79b85afea7c90920330275af",
+      "viewpager2-1.0.0.pom": "4063bca7fe94fe65c98f4168f97ae10e02da0248598ad3ac21c432c7f608a17a"
+    }
+  },
+  {
+    "group": "com.aar.app",
+    "name": "google-webrtc",
+    "version": "M83",
+    "artifacts": {
+      "google-webrtc-M83.aar": "3bd209ea014a478e38305d408e9fb9fc2bde3d01aec4b79460e376e36ee35757",
+      "google-webrtc-M83.pom": "0ea16775d9deb87110ab8adba6dacfabdd9e33f84e6e0668102ebbf01a9e5852"
+    }
+  },
+  {
+    "group": "com.android",
+    "name": "signflinger",
+    "version": "4.2.1",
+    "artifacts": {
+      "signflinger-4.2.1.jar": "90ddb3e00cbeabff00fc014947a4de2504567e43eafabdb0f920c99d9ee29572",
+      "signflinger-4.2.1.module": "2418e4e8b2c421df6ff682ea572c4ab2ff303ffd63edecb5a4b26917d8c06ac1"
+    }
+  },
+  {
+    "group": "com.android",
+    "name": "zipflinger",
+    "version": "4.2.1",
+    "artifacts": {
+      "zipflinger-4.2.1.jar": "a00f8e0126c19695c779971ea8ecce9374cb696cc78fce62028749938ba461ef",
+      "zipflinger-4.2.1.module": "4ec89174d178a3dd706506998f64d690c3273898aacb11d6c94a4cf6d9e19faa"
+    }
+  },
+  {
+    "group": "com.android.databinding",
+    "name": "baseLibrary",
+    "version": "4.2.1",
+    "artifacts": {
+      "baseLibrary-4.2.1.jar": "efef9b153c42eb4b78f7a9cdb00ba8ddc6c81c5a0c792d3cf8788b99a35f3f64",
+      "baseLibrary-4.2.1.module": "44895f69d3b2f22d25e53fe71c7ba125116871dabf488685bb2a356c455c8641"
+    }
+  },
+  {
+    "group": "com.android.installreferrer",
+    "name": "installreferrer",
+    "version": "2.2",
+    "artifacts": {
+      "installreferrer-2.2.aar": "7112e592c429949787c168c5ac62721144a73b649050684557fdbdba5dd3b66a",
+      "installreferrer-2.2.pom": "901ee79908dbf6ca5518120039e8394c64866b55c2aeffa965f0376a39a73813"
+    }
+  },
+  {
+    "group": "com.android.tools",
+    "name": "annotations",
+    "version": "27.2.1",
+    "artifacts": {
+      "annotations-27.2.1.jar": "898149a83a49f20913f47b77aa78fa6a9c42c58673b0cfca377f8b870eee63b0",
+      "annotations-27.2.1.module": "ed6856a5302ccc5862e21637301fa878a6a7d03922237a7aa64981261fd80338"
+    }
+  },
+  {
+    "group": "com.android.tools",
+    "name": "common",
+    "version": "27.2.1",
+    "artifacts": {
+      "common-27.2.1.jar": "54fb5c771da68137e91a2a474d896efe2797cbeab69d6f449f60e4edc8f42f46",
+      "common-27.2.1.module": "7b14e7ce49b2c4047d0a6c1ab2d2419d81681294ef107b4753b4885b30f0c926"
+    }
+  },
+  {
+    "group": "com.android.tools",
+    "name": "dvlib",
+    "version": "27.2.1",
+    "artifacts": {
+      "dvlib-27.2.1.jar": "00d012a78bc785327cea1c531332eee99c71e5746257dd006fb5793344caf2cd",
+      "dvlib-27.2.1.module": "0604a7588bc30d28a9960da662e9685b5ed26cedace051af36c7e4b5fa55578b"
+    }
+  },
+  {
+    "group": "com.android.tools",
+    "name": "repository",
+    "version": "27.2.1",
+    "artifacts": {
+      "repository-27.2.1.jar": "fcf13eccdf769380376f675595ab2ec527de9190137da252c896ff9444886ef8",
+      "repository-27.2.1.module": "f480d3f208d2a82cb5fb44b99648a537262722e32964d38fae27dc3fb7cb02ee"
+    }
+  },
+  {
+    "group": "com.android.tools",
+    "name": "sdk-common",
+    "version": "27.2.1",
+    "artifacts": {
+      "sdk-common-27.2.1.jar": "fcfe5fcc903e3a8037a53b3dd8ccf2ca021cd3e7b6820a1d289a7c20c427bcc0",
+      "sdk-common-27.2.1.module": "b588e1067f8074d9b38e55b69fc2258ecd715b4471b1f03bb53b1d915a0447ff"
+    }
+  },
+  {
+    "group": "com.android.tools",
+    "name": "sdklib",
+    "version": "27.2.1",
+    "artifacts": {
+      "sdklib-27.2.1.jar": "a25e87f7bc176f4afc254b12c9b798eb5f22c921ebcb09fcfc014786e2c87845",
+      "sdklib-27.2.1.module": "016b2f495a1c142ba1f157e741fad0b9cd3935bac962f42e6d7a74e5b85d7dc5"
+    }
+  },
+  {
+    "group": "com.android.tools.analytics-library",
+    "name": "crash",
+    "version": "27.2.1",
+    "artifacts": {
+      "crash-27.2.1.jar": "dc9cc72f113633f1eb03817ffadc4ecb3f7a15320ef213a3e71aa2715c678aa2",
+      "crash-27.2.1.module": "62a8e2be0e8f0130ab41be15ee06f31a1e680a6b78b36e445628d3e3d9e61865"
+    }
+  },
+  {
+    "group": "com.android.tools.analytics-library",
+    "name": "protos",
+    "version": "27.2.1",
+    "artifacts": {
+      "protos-27.2.1.jar": "1ce0868dad3694e63f6203777444f36c335737a5836dda91e81185baa843c1db",
+      "protos-27.2.1.module": "6a1a0fc2834abd9128e8ccb167852750bee396bb4a54b5f1fbbab9d28f13ebc5"
+    }
+  },
+  {
+    "group": "com.android.tools.analytics-library",
+    "name": "shared",
+    "version": "27.2.1",
+    "artifacts": {
+      "shared-27.2.1.jar": "1e88737c2d846d126479de3d487643fb7d1f154faabbf46afc6c87c95016bdf9",
+      "shared-27.2.1.module": "88b6e86dbcd93fcc473db1bfd364123fa33fc83ba90c405e6cc78cab226872c9"
+    }
+  },
+  {
+    "group": "com.android.tools.analytics-library",
+    "name": "tracker",
+    "version": "27.2.1",
+    "artifacts": {
+      "tracker-27.2.1.jar": "1beca5db6495219d8924cabc5704a1e097eccc627f78bd764985bd3f7a174e5c",
+      "tracker-27.2.1.module": "f7687064683b856ab05cb265e69a5b0aa07581627d2de9c500f156870dd952ec"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "aapt2-proto",
+    "version": "4.1.0-alpha01-6193524",
+    "artifacts": {
+      "aapt2-proto-4.1.0-alpha01-6193524.jar": "17e75523e1e92dd4f222c7368ee41df9e964a508232f591e265d0c499baf9dca",
+      "aapt2-proto-4.1.0-alpha01-6193524.pom": "140a406bcc52be2c99937c51f629076134c74fb060aeedb9f54e91cb7091d786"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "aapt2-proto",
+    "version": "4.2.1-7147631",
+    "artifacts": {
+      "aapt2-proto-4.2.1-7147631.jar": "1c315f59f7f9a1f0b479d59682880e6c6968bd7df41ddac4cc30b6c16e31b8b5",
+      "aapt2-proto-4.2.1-7147631.module": "e23947074099b708abb8d57e966beb5948406bb23e057c3404482b90336402d8"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "aaptcompiler",
+    "version": "4.2.1",
+    "artifacts": {
+      "aaptcompiler-4.2.1.jar": "3eb1563fa0f5e3a1dc009ee2fd6b3ed88c9e091c9fb3794010491f056a6e32a3",
+      "aaptcompiler-4.2.1.module": "1b8f054b58cb0f87a164dc1ca7d05ae3d4656220171ad04e1e0dc63719ab7986"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "apksig",
+    "version": "4.2.1",
+    "artifacts": {
+      "apksig-4.2.1.jar": "d8ea8eb467d310850fa80bbcc2b0f9daa8ceec1d1397d26a282f0b1f79b76c89",
+      "apksig-4.2.1.module": "21bc39cbc7bd49e57b2e8e176ae6cc8b12e8383d86ec781132389cd9d948f4be"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "apkzlib",
+    "version": "4.2.1",
+    "artifacts": {
+      "apkzlib-4.2.1.jar": "3278f75167831fab7108f181f9aee89b2fde7d4c630d553ddee30f275701a0ba",
+      "apkzlib-4.2.1.module": "b3926e06e5a8f5167e42fb457ba807510daa1b8844e24acbb98d838d663973f8"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "builder",
+    "version": "4.2.1",
+    "artifacts": {
+      "builder-4.2.1.jar": "7623c31b41671c49aa15d8775a1987d4f4bb54733571d5c3ec84aa1c7b67dc2f",
+      "builder-4.2.1.module": "30e5efd3a2a420c1b8b104747302dd0bac48277d993f9740d2abfd06713e5f25"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "builder-model",
+    "version": "4.2.1",
+    "artifacts": {
+      "builder-model-4.2.1.jar": "315dcbfc26b5da56d11b627b31ac82c9bfc02a95e656b9c4eb0fd633b15d64e2",
+      "builder-model-4.2.1.module": "b1073eb52d436d1b7168845f030dadac915c59d2b6f0c8000dd881852002abc2"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "builder-test-api",
+    "version": "4.2.1",
+    "artifacts": {
+      "builder-test-api-4.2.1.jar": "7daa32db5b483b750e3c36016443142825b46f867e4750f19d54da659552604c",
+      "builder-test-api-4.2.1.module": "3b9fbf2b314d97ffa93ed3a069249ba01fc9641526ad9786d66208d34ddf7d2f"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "bundletool",
+    "version": "1.1.0",
+    "artifacts": {
+      "bundletool-1.1.0.jar": "4cb02a7963fa7c82c302fdcde679b336e669e928f5bbad00457d9c562ef1cd30",
+      "bundletool-1.1.0.pom": "efe2d08fb32cd70a2ce007591bd0ceecbb2091a9b9cb4e10bc597b7bd6e3e654"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "gradle",
+    "version": "4.2.1",
+    "artifacts": {
+      "gradle-4.2.1.jar": "058d7c727442d3f2bbf325c52cf76d3490c5a2036b192390e3b972fc025dbcf8",
+      "gradle-4.2.1.module": "fef35a4190a82bed5360b3e711f7418918c457c37a8c9d9c133328b76bcf0bd7"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "gradle-api",
+    "version": "4.2.1",
+    "artifacts": {
+      "gradle-api-4.2.1.jar": "1e199938ec9e838852bef9a3e276da5258da875decff307a851eced06b7b297e",
+      "gradle-api-4.2.1.module": "455a9237f18a13885a559104e0415d302d6f06dc1202a7e6fb2658d1e3f24120"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "manifest-merger",
+    "version": "27.2.1",
+    "artifacts": {
+      "manifest-merger-27.2.1.jar": "cde7e801b72b798611ba33e384734452bf997ea599b75a3ba4c7476e3702f6aa",
+      "manifest-merger-27.2.1.module": "f2bccc05328253c96faf51ab82ee232123d8a37f516386d55654e4854e74a5e4"
+    }
+  },
+  {
+    "group": "com.android.tools.build",
+    "name": "transform-api",
+    "version": "2.0.0-deprecated-use-gradle-api",
+    "artifacts": {
+      "transform-api-2.0.0-deprecated-use-gradle-api.jar": "4de4a3d05e1c534c2db9e4588bf34082bb2bd232d8abb9727c430290ce225740",
+      "transform-api-2.0.0-deprecated-use-gradle-api.pom": "7c62f3856e8abca1d79257925f26c12668693f5d95904056bbac88605cfd8575"
+    }
+  },
+  {
+    "group": "com.android.tools.build.jetifier",
+    "name": "jetifier-core",
+    "version": "1.0.0-beta09",
+    "artifacts": {
+      "jetifier-core-1.0.0-beta09.jar": "9bb3a91e871e784446e4dd1e1d1dea5c322e271cba8278c1dec3669a66aee858",
+      "jetifier-core-1.0.0-beta09.pom": "4688b442fb347820a85a8e0f019978f9eaa762fbbbadb774ab945119d7304da5"
+    }
+  },
+  {
+    "group": "com.android.tools.build.jetifier",
+    "name": "jetifier-processor",
+    "version": "1.0.0-beta09",
+    "artifacts": {
+      "jetifier-processor-1.0.0-beta09.jar": "1838f9ee70120e64f45612ca071972ac83ddc118185abffbce3932a4710325eb",
+      "jetifier-processor-1.0.0-beta09.pom": "388408f994059031929d14723ec01411f85c6834608465763d4c79afe220a738"
+    }
+  },
+  {
+    "group": "com.android.tools.ddms",
+    "name": "ddmlib",
+    "version": "27.2.1",
+    "artifacts": {
+      "ddmlib-27.2.1.jar": "757b43f32f4c2a57fbc4bfd34e4100be808fcdda240fcba812edbb6702a2b668",
+      "ddmlib-27.2.1.module": "3252077096548e1568c2311dce776950eaa63c0a440f0e07c92ad973296a32c4"
+    }
+  },
+  {
+    "group": "com.android.tools.external.com-intellij",
+    "name": "intellij-core",
+    "version": "27.2.1",
+    "artifacts": {
+      "intellij-core-27.2.1.jar": "dced6fb2bf3a7fbdcf791c00fc4f61f8532b95d348f254bc5999753b052e8fda",
+      "intellij-core-27.2.1.module": "7d85921fdd3c0b40adeb554c39e2235891dd6b68af1d52e9d1d4db8a518ac24f"
+    }
+  },
+  {
+    "group": "com.android.tools.external.com-intellij",
+    "name": "kotlin-compiler",
+    "version": "27.2.1",
+    "artifacts": {
+      "kotlin-compiler-27.2.1.jar": "a999511f7838e654b9346e311d68c983f70c8677481ec0334fc630ff717e7326",
+      "kotlin-compiler-27.2.1.module": "5be75671345fef14d59256d2bc4d31060dc4b97e2dfa7c22f9b6136acc50fa9d"
+    }
+  },
+  {
+    "group": "com.android.tools.external.org-jetbrains",
+    "name": "uast",
+    "version": "27.2.1",
+    "artifacts": {
+      "uast-27.2.1.jar": "475824900256f7a446ebfbeda0b2ab43b77a9d232d05e7baeaa5193f82fa8d3f",
+      "uast-27.2.1.module": "bdde6e53a33a2984f407b24fd7e23d33896c3e9c55727abb76164b74b585b764"
+    }
+  },
+  {
+    "group": "com.android.tools.layoutlib",
+    "name": "layoutlib-api",
+    "version": "27.2.1",
+    "artifacts": {
+      "layoutlib-api-27.2.1.jar": "4b6e1395c13d3312324490ce767cb154e9a9046cd89ca921dc0a0e4edd88c07f",
+      "layoutlib-api-27.2.1.module": "bdf6ba4337cb8b6292418ea56162ccd3fd8f5d46e046b854492f10800feb9782"
+    }
+  },
+  {
+    "group": "com.android.tools.lint",
+    "name": "lint",
+    "version": "27.2.1",
+    "artifacts": {
+      "lint-27.2.1.jar": "6d5d2349e38ec23d129e0a81f138317a33059b62a07db68574fb7ee0e23e4106",
+      "lint-27.2.1.module": "11d29577f2827f00088eb4f75a95dbf05bbccba5e3bb37e95f12a24725666cfb"
+    }
+  },
+  {
+    "group": "com.android.tools.lint",
+    "name": "lint-api",
+    "version": "27.2.1",
+    "artifacts": {
+      "lint-api-27.2.1.jar": "bdf54428cfd512c55000744e60f19d148d9524b1aa5df1f4646d95afb4f591e1",
+      "lint-api-27.2.1.module": "a5c0cdc5ef577a907f9ddf99abdaa3d212466e934e4bcec577054e1fe80c3954"
+    }
+  },
+  {
+    "group": "com.android.tools.lint",
+    "name": "lint-checks",
+    "version": "27.2.1",
+    "artifacts": {
+      "lint-checks-27.2.1.jar": "9f7482bb793020d6debe2345855e81670cfb93b9cc2caa52272e11182f436099",
+      "lint-checks-27.2.1.module": "0f9979874889dfd8e59a9ae57de9a45d45c684ebf798229c6e2133b20aeaab13"
+    }
+  },
+  {
+    "group": "com.android.tools.lint",
+    "name": "lint-gradle",
+    "version": "27.2.1",
+    "artifacts": {
+      "lint-gradle-27.2.1.jar": "45d81d4d62bfc4c0cd01c3e72ed3338497df977d6875b7d48853a35fe5282bad",
+      "lint-gradle-27.2.1.module": "3d258c1d4facb5aee58d1ad86d1d755f6bacac76eefa8a811a8fd515737f1774"
+    }
+  },
+  {
+    "group": "com.android.tools.lint",
+    "name": "lint-gradle-api",
+    "version": "27.2.1",
+    "artifacts": {
+      "lint-gradle-api-27.2.1.jar": "59618021a9252e39a2000cbd8cee23347d262d2e05ab9561fb615e56c4511c35",
+      "lint-gradle-api-27.2.1.module": "2196d5cff8cd25600c97f3b4671291d289c358c6326a1e918960870f1887a225"
+    }
+  },
+  {
+    "group": "com.android.tools.lint",
+    "name": "lint-model",
+    "version": "27.2.1",
+    "artifacts": {
+      "lint-model-27.2.1.jar": "1530bcd47ca17b7b8245cc3f5dd8e4630538c139f9c98ebda508cab1ed9dd1dd",
+      "lint-model-27.2.1.module": "88e433bc5d4a07f5fcc20e97b941fb811ee2ed528526bc357eb2e3074f9ae57b"
+    }
+  },
+  {
+    "group": "com.google",
+    "name": "google",
+    "version": "1",
+    "artifacts": {
+      "google-1.pom": "cd6db17a11a31ede794ccbd1df0e4d9750f640234731f21cff885a9997277e81"
+    }
+  },
+  {
+    "group": "com.google.android.datatransport",
+    "name": "transport-api",
+    "version": "3.0.0",
+    "artifacts": {
+      "transport-api-3.0.0.aar": "4e6983c0703b357df6f1c6ceacb1b5dfc2c5006a789c799fec2298b2b5337466",
+      "transport-api-3.0.0.pom": "1537bebd44da2eb7e3be73fc4259e1116f2a68a5305f4fe23c6cea9a6f84f791"
+    }
+  },
+  {
+    "group": "com.google.android.datatransport",
+    "name": "transport-backend-cct",
+    "version": "3.0.0",
+    "artifacts": {
+      "transport-backend-cct-3.0.0.aar": "bee6c2b14bf72cd2843c3c2b2210a99eaaecb453ccafb6d3e91e1325c6911770",
+      "transport-backend-cct-3.0.0.pom": "0aaab2d4a2fc3d1ab96dd02cac69fd572637ec24135c4a8c7cff86dc32957dd5"
+    }
+  },
+  {
+    "group": "com.google.android.datatransport",
+    "name": "transport-runtime",
+    "version": "3.0.0",
+    "artifacts": {
+      "transport-runtime-3.0.0.aar": "691bd6ee2bf93182d29cb8a3a6f735098337e6f35d7fc9c8a79f17fdae604894",
+      "transport-runtime-3.0.0.pom": "97858d23adf468a894cd8962305d84d2a0d9215eb2f678ac5cca8f1324617e1d"
+    }
+  },
+  {
+    "group": "com.google.android.gms",
+    "name": "play-services-auth-api-phone",
+    "version": "17.5.0",
+    "artifacts": {
+      "play-services-auth-api-phone-17.5.0.aar": "ef97a624895eac435ac8f88386c43c543fd494d5b3f8a1152f1c49589c9acd6b",
+      "play-services-auth-api-phone-17.5.0.pom": "e766de7affc24579f32f54464b44f467da936663cc9268944bb4edbeda82c440"
+    }
+  },
+  {
+    "group": "com.google.android.gms",
+    "name": "play-services-base",
+    "version": "17.1.0",
+    "artifacts": {
+      "play-services-base-17.1.0.aar": "f02ac8c5661b1708c80a22d515b93032489d412fe02b59a97c04e4b80d1a7dbe",
+      "play-services-base-17.1.0.pom": "65c1c5b5afcdd3acd5a2264e1cfb41e4b36ff695d58bc25138b0b3ea7f120c0d"
+    }
+  },
+  {
+    "group": "com.google.android.gms",
+    "name": "play-services-basement",
+    "version": "17.0.0",
+    "artifacts": {
+      "play-services-basement-17.0.0.aar": "d324a1785bbc48bfe3639fc847cfd3cf43d49e967b5caf2794240a854557a39c",
+      "play-services-basement-17.0.0.pom": "ffe9295d9eb2ec2d784bb4c3634f6a10175224d2111332fa2735320b52a24b66"
+    }
+  },
+  {
+    "group": "com.google.android.gms",
+    "name": "play-services-basement",
+    "version": "17.1.0",
+    "artifacts": {
+      "play-services-basement-17.1.0.aar": "b3a5f60807611456b6f6bb4787d7adaeb306388c41da6fbc27299ab99d25b9e8",
+      "play-services-basement-17.1.0.pom": "68fb61f9f2b875bf3be6810ec2ad9d78db1603ba46796933b254c3ddb28c3884"
+    }
+  },
+  {
+    "group": "com.google.android.gms",
+    "name": "play-services-cloud-messaging",
+    "version": "16.0.0",
+    "artifacts": {
+      "play-services-cloud-messaging-16.0.0.aar": "3a5000df3d6b91f9b8b681b29331b4680d30c140f693b1c5d2969755b6fc4cf9",
+      "play-services-cloud-messaging-16.0.0.pom": "42cbea3182b8419a56d1dfe6c74073ad7eb604ca635fd6a82cab8895c21ad91e"
+    }
+  },
+  {
+    "group": "com.google.android.gms",
+    "name": "play-services-stats",
+    "version": "17.0.0",
+    "artifacts": {
+      "play-services-stats-17.0.0.aar": "e8ae5b40512b71e2258bfacd8cd3da398733aa4cde3b32d056093f832b83a6fe",
+      "play-services-stats-17.0.0.pom": "16f62288613923857f616976985fdfdc212bacc898b2b947715ebffd8fdea19b"
+    }
+  },
+  {
+    "group": "com.google.android.gms",
+    "name": "play-services-tasks",
+    "version": "17.0.0",
+    "artifacts": {
+      "play-services-tasks-17.0.0.aar": "2e6d1738b73647f3fe7a038b9780b97717b3746eae258009197e36e7bf3112a5",
+      "play-services-tasks-17.0.0.pom": "fdd93302c2eb94bbe6007caa28d072246d2875cda5cb774bb6299416b94d74a6"
+    }
+  },
+  {
+    "group": "com.google.android.material",
+    "name": "material",
+    "version": "1.3.0",
+    "artifacts": {
+      "material-1.3.0.aar": "cbf1e7d69fc236cdadcbd1ec5f6c0a1a41aca6ad1ef7f8481058956270ab1f0a",
+      "material-1.3.0.module": "5d6b782ba57e549b8f00bc902664085e9a63c11e177f934589ba6331a764543b"
+    }
+  },
+  {
+    "group": "com.google.auto",
+    "name": "auto-common",
+    "version": "0.10",
+    "artifacts": {
+      "auto-common-0.10.jar": "b876b5fddaceeba7d359667f6c4fb8c6f8658da1ab902ffb79ec9a415deede5f",
+      "auto-common-0.10.pom": "467ade17a0709d7b1d5c461e67f359e4effc5230fc62bd0be280ece1a08f0332"
+    }
+  },
+  {
+    "group": "com.google.auto",
+    "name": "auto-parent",
+    "version": "6",
+    "artifacts": {
+      "auto-parent-6.pom": "05f740c6648165db00cf618dd56c200c4725e358e6d54f5853e0bec15734ea0a"
+    }
+  },
+  {
+    "group": "com.google.auto.value",
+    "name": "auto-value-annotations",
+    "version": "1.6.2",
+    "artifacts": {
+      "auto-value-annotations-1.6.2.jar": "b48b04ddba40e8ac33bf036f06fc43995fc5084bd94bdaace807ce27d3bea3fb",
+      "auto-value-annotations-1.6.2.pom": "1c76cd462fc96e7aa96dc70ce82f0d54063d6df16db35c9c7d9cc0d1a99d3fff"
+    }
+  },
+  {
+    "group": "com.google.auto.value",
+    "name": "auto-value-parent",
+    "version": "1.6.2",
+    "artifacts": {
+      "auto-value-parent-1.6.2.pom": "27b640c82179f5cff62009c0b72033d9bc60f60e9902a66802274b7fe37fc81c"
+    }
+  },
+  {
+    "group": "com.google.code.findbugs",
+    "name": "jsr305",
+    "version": "1.3.9",
+    "artifacts": {
+      "jsr305-1.3.9.pom": "feab9191311c3d7aeef2b66d6064afc80d3d1d52d980fb07ae43c78c987ba93a"
+    }
+  },
+  {
+    "group": "com.google.code.findbugs",
+    "name": "jsr305",
+    "version": "3.0.2",
+    "artifacts": {
+      "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
+      "jsr305-3.0.2.pom": "19889dbdf1b254b2601a5ee645b8147a974644882297684c798afe5d63d78dfe"
+    }
+  },
+  {
+    "group": "com.google.code.gson",
+    "name": "gson",
+    "version": "2.8.5",
+    "artifacts": {
+      "gson-2.8.5.jar": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
+      "gson-2.8.5.pom": "b8308557a7fccc92d9fe7c8cd0599258b361285d2ecde7689eda98843255a092"
+    }
+  },
+  {
+    "group": "com.google.code.gson",
+    "name": "gson",
+    "version": "2.8.6",
+    "artifacts": {
+      "gson-2.8.6.jar": "c8fb4839054d280b3033f800d1f5a97de2f028eb8ba2eb458ad287e536f3f25f",
+      "gson-2.8.6.pom": "2174415a647332d30fda04bd1cfc708a3ecc84eaf7517f596188d8244e103911"
+    }
+  },
+  {
+    "group": "com.google.code.gson",
+    "name": "gson-parent",
+    "version": "2.8.5",
+    "artifacts": {
+      "gson-parent-2.8.5.pom": "8f1fec72b91a71ea39ec39f5f778c4d1124b6b097c6d55b3a50b554a52237b27"
+    }
+  },
+  {
+    "group": "com.google.code.gson",
+    "name": "gson-parent",
+    "version": "2.8.6",
+    "artifacts": {
+      "gson-parent-2.8.6.pom": "3736463859ec19267295e894940ae82a8f684413031122fe35ce7cff7e30a774"
+    }
+  },
+  {
+    "group": "com.google.crypto.tink",
+    "name": "tink",
+    "version": "1.3.0-rc2",
+    "artifacts": {
+      "tink-1.3.0-rc2.jar": "3aa576b5671d0e26d83d7fdb7186810b5672f00bf8e72184260bcc7c2d7dc07a",
+      "tink-1.3.0-rc2.pom": "5b9a11c11183d011de9a9a5490962d78a4d4bfe7579b0c5be4afb18a222e3f41"
+    }
+  },
+  {
+    "group": "com.google.dagger",
+    "name": "dagger",
+    "version": "2.28.3",
+    "artifacts": {
+      "dagger-2.28.3.jar": "f1dd23f8ae34a8e91366723991ead0d6499d1a3e9163ce550c200b02d76a872b",
+      "dagger-2.28.3.pom": "265ba959a8e13c3a06133f04b539169c1018daffd4d33f53c453ab4cb386f570"
+    }
+  },
+  {
+    "group": "com.google.errorprone",
+    "name": "error_prone_annotations",
+    "version": "2.3.1",
+    "artifacts": {
+      "error_prone_annotations-2.3.1.pom": "3edce6b711ba368efe16b9b7aacb0214fbd648414cb9b965953a2e7ed89a819a"
+    }
+  },
+  {
+    "group": "com.google.errorprone",
+    "name": "error_prone_annotations",
+    "version": "2.3.2",
+    "artifacts": {
+      "error_prone_annotations-2.3.2.jar": "357cd6cfb067c969226c442451502aee13800a24e950fdfde77bcdb4565a668d",
+      "error_prone_annotations-2.3.2.pom": "8d175561619289a527573cfbdcf872eb5c1216cf9ab692a0ef3dba6d793f63b4"
+    }
+  },
+  {
+    "group": "com.google.errorprone",
+    "name": "error_prone_annotations",
+    "version": "2.5.1",
+    "artifacts": {
+      "error_prone_annotations-2.5.1.jar": "ff80626baaf12a09342befd4e84cba9d50662f5fcd7f7a9b3490a6b7cf87e66c",
+      "error_prone_annotations-2.5.1.pom": "983ad7fe0fa6f6f91e2d20477f5089eccc3f4d8ec6c51d6eb45583970e279d3c"
+    }
+  },
+  {
+    "group": "com.google.errorprone",
+    "name": "error_prone_parent",
+    "version": "2.3.1",
+    "artifacts": {
+      "error_prone_parent-2.3.1.pom": "767525d9a81129cd081968382980336327be4162b1e2251a182911daa733c123"
+    }
+  },
+  {
+    "group": "com.google.errorprone",
+    "name": "error_prone_parent",
+    "version": "2.3.2",
+    "artifacts": {
+      "error_prone_parent-2.3.2.pom": "8d3b5b9fa211979e9c425e989825c07743d2eb4dc8c20ec61de0f5b3dc1a6333"
+    }
+  },
+  {
+    "group": "com.google.errorprone",
+    "name": "error_prone_parent",
+    "version": "2.5.1",
+    "artifacts": {
+      "error_prone_parent-2.5.1.pom": "a17a7677482a3a51a45f5e08140072acd332ccb12f23899b0052d80a729c2e52"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-annotations",
+    "version": "16.0.0",
+    "artifacts": {
+      "firebase-annotations-16.0.0.jar": "8830f2e8a5e434cbc5e4bd18133073b6e8518a8ce8ec2ce6f3b273c91d9664c2",
+      "firebase-annotations-16.0.0.pom": "82c6d040edcb3c158b5b9865601d2bd742abcbd97cbd98903bde059da8edd087"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-common",
+    "version": "20.0.0",
+    "artifacts": {
+      "firebase-common-20.0.0.aar": "cc65c637adf3e95a631318e43590a729b5862d75b6a649070ff0ffeaace724ca",
+      "firebase-common-20.0.0.pom": "6b6df08bba99fd89d368035e582889b7cf2d83f35691988f40e53f2d942b9aba"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-components",
+    "version": "17.0.0",
+    "artifacts": {
+      "firebase-components-17.0.0.aar": "dd678b2e24dd9b3f570196c618b6ffba9ea59b232ae6dce1356b0629ecb6fbf7",
+      "firebase-components-17.0.0.pom": "68a545bb0d05906ccff0d4732e46374bfbd753b74128557efaeca8590e78fd19"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-datatransport",
+    "version": "18.0.0",
+    "artifacts": {
+      "firebase-datatransport-18.0.0.aar": "bf65d52b711c22e0170b4f12b20b183ba0617bc07bd2cf9cfb99b325044fef7e",
+      "firebase-datatransport-18.0.0.pom": "f1df821302d55aa16929bf0ad83fd7a2b582fcfa1be76f0df8ab3d5847d5e962"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-encoders",
+    "version": "17.0.0",
+    "artifacts": {
+      "firebase-encoders-17.0.0.jar": "282a5a703f9b7eb56508dde97ea918e95d73318b157050f457f7a86dca750150",
+      "firebase-encoders-17.0.0.pom": "423575e3500e9910e3aa83f9d7a6d755b5f76ac591823baf67570fb6ce7ea816"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-encoders-json",
+    "version": "18.0.0",
+    "artifacts": {
+      "firebase-encoders-json-18.0.0.aar": "80aece7e1ef58957ca2fc1957bc9208ec92a3a9528201331d3c63e3182570f97",
+      "firebase-encoders-json-18.0.0.pom": "3a7d59795a799683afa6435931066c5bb634adfebd2883a08b4765f38cdd3ea1"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-iid-interop",
+    "version": "17.1.0",
+    "artifacts": {
+      "firebase-iid-interop-17.1.0.aar": "0b7c3721c84b62e70415307239ed4a7f998989084bf2833f90b9f5bea3095a05",
+      "firebase-iid-interop-17.1.0.pom": "53f269f5e127ac21eba2d80a985abc8d2c8f24cdca9be0284448ee9ea343e34b"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-installations",
+    "version": "17.0.0",
+    "artifacts": {
+      "firebase-installations-17.0.0.aar": "c720f765d2e60606ef7eadaa9f8f18f5e814f30efb808c49105ec7b158fe9931",
+      "firebase-installations-17.0.0.pom": "77e7e9280a6bd564943c36b033c39f452286bdd673072f5728d13960c929f636"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-installations-interop",
+    "version": "17.0.0",
+    "artifacts": {
+      "firebase-installations-interop-17.0.0.aar": "c47991fb855ba7be814cc90ad166f70c0d26e71f574249febaba12473444c530",
+      "firebase-installations-interop-17.0.0.pom": "7a59e50942ab27e60bdca7b664b4bf62d7f54c0e9cb01aef17ecc21f03203aa3"
+    }
+  },
+  {
+    "group": "com.google.firebase",
+    "name": "firebase-messaging",
+    "version": "22.0.0",
+    "artifacts": {
+      "firebase-messaging-22.0.0.aar": "c42d1a02dfa6d5da7ba2c68907a0cf86311d3d9d6eb40e37eabfcd6dc14356e3",
+      "firebase-messaging-22.0.0.pom": "0ef596e08f1864a313cbfbf19e564c3769056be35652269ee1facfb9ba05187a"
+    }
+  },
+  {
+    "group": "com.google.flatbuffers",
+    "name": "flatbuffers-java",
+    "version": "1.12.0",
+    "artifacts": {
+      "flatbuffers-java-1.12.0.jar": "3f8c088b4dd04a9858721f2e162508c94db0dd86f961e306ee63ef2eda871bf7",
+      "flatbuffers-java-1.12.0.pom": "cb226baf546260770f21e8152a6aa88ba15230d739f750df480f2a668d43e0eb"
+    }
+  },
+  {
+    "group": "com.google.guava",
+    "name": "failureaccess",
+    "version": "1.0.1",
+    "artifacts": {
+      "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
+      "failureaccess-1.0.1.pom": "e96042ce78fecba0da2be964522947c87b40a291b5fd3cd672a434924103c4b9"
+    }
+  },
+  {
+    "group": "com.google.guava",
+    "name": "guava",
+    "version": "28.1-jre",
+    "artifacts": {
+      "guava-28.1-jre.jar": "30beb8b8527bd07c6e747e77f1a92122c2f29d57ce347461a4a55eb26e382da4",
+      "guava-28.1-jre.pom": "74af0e8dd935894ce9bcb8e2842dd0001581b84cb6a7751c3ef9314011399ba4"
+    }
+  },
+  {
+    "group": "com.google.guava",
+    "name": "guava",
+    "version": "30.1.1-android",
+    "artifacts": {
+      "guava-30.1.1-android.jar": "355f79352f8c252f2bdaa06c687c4836a38016caccfc4c28d16ae77ecfdffa2f",
+      "guava-30.1.1-android.pom": "b218de6e345a7983fefce49a04baf19f6ace359cad1c84973190cd6c4da05846"
+    }
+  },
+  {
+    "group": "com.google.guava",
+    "name": "guava-parent",
+    "version": "26.0-android",
+    "artifacts": {
+      "guava-parent-26.0-android.pom": "f8698ab46ca996ce889c1afc8ca4f25eb8ac6b034dc898d4583742360016cc04"
+    }
+  },
+  {
+    "group": "com.google.guava",
+    "name": "guava-parent",
+    "version": "28.1-jre",
+    "artifacts": {
+      "guava-parent-28.1-jre.pom": "f31a5846bd9e14a4c374da1b9b146a5715ecdca925e071e1d2bf4da2daaded90"
+    }
+  },
+  {
+    "group": "com.google.guava",
+    "name": "guava-parent",
+    "version": "30.1.1-android",
+    "artifacts": {
+      "guava-parent-30.1.1-android.pom": "d8e6b0f0fa4bf6be21734dc530f74d8696e9d0ac3ad27fbc7928ba3d8f64d761"
+    }
+  },
+  {
+    "group": "com.google.guava",
+    "name": "listenablefuture",
+    "version": "9999.0-empty-to-avoid-conflict-with-guava",
+    "artifacts": {
+      "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
+      "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom": "18d4b1db26153d4e55079ce1f76bb1fe05cdb862ef9954a88cbcc4ff38b8679b"
+    }
+  },
+  {
+    "group": "com.google.j2objc",
+    "name": "j2objc-annotations",
+    "version": "1.3",
+    "artifacts": {
+      "j2objc-annotations-1.3.jar": "21af30c92267bd6122c0e0b4d20cccb6641a37eaf956c6540ec471d584e64a7b",
+      "j2objc-annotations-1.3.pom": "5faca824ba115bee458730337dfdb2fcea46ba2fd774d4304edbf30fa6a3f055"
+    }
+  },
+  {
+    "group": "com.google.jimfs",
+    "name": "jimfs",
+    "version": "1.1",
+    "artifacts": {
+      "jimfs-1.1.jar": "c4828e28d7c0a930af9387510b3bada7daa5c04d7c25a75c7b8b081f1c257ddd",
+      "jimfs-1.1.pom": "efa86e5cd922f17b472fdfcae57234d8d4ac3e148b6250737dfce454af7a7a44"
+    }
+  },
+  {
+    "group": "com.google.jimfs",
+    "name": "jimfs-parent",
+    "version": "1.1",
+    "artifacts": {
+      "jimfs-parent-1.1.pom": "c71555751e57e0ef912870e8ac9625ae782502a6a5b9c19ccf83b2a97d8b26bd"
+    }
+  },
+  {
+    "group": "com.google.protobuf",
+    "name": "protobuf-bom",
+    "version": "3.10.0",
+    "artifacts": {
+      "protobuf-bom-3.10.0.pom": "32ff2307dafc658d0b55b2ad841d625aea5606bb9b0316605165cd6980503243"
+    }
+  },
+  {
+    "group": "com.google.protobuf",
+    "name": "protobuf-java",
+    "version": "2.5.0",
+    "artifacts": {
+      "protobuf-java-2.5.0.jar": "e0c1c64575c005601725e7c6a02cebf9e1285e888f756b2a1d73ffa8d725cc74",
+      "protobuf-java-2.5.0.pom": "9d837a52af87aa417ca14aeec39d0eae34f3fe58aae5e36397e6f0e12d5d4f47"
+    }
+  },
+  {
+    "group": "com.google.protobuf",
+    "name": "protobuf-java",
+    "version": "3.10.0",
+    "artifacts": {
+      "protobuf-java-3.10.0.jar": "161d7d61a8cb3970891c299578702fd079646e032329d6c2cabf998d191437c9",
+      "protobuf-java-3.10.0.pom": "b404c1b093ec9dea888e02c8dfe8662759586b94efa4f97061cdfc1bbfa15af0"
+    }
+  },
+  {
+    "group": "com.google.protobuf",
+    "name": "protobuf-java-util",
+    "version": "3.10.0",
+    "artifacts": {
+      "protobuf-java-util-3.10.0.jar": "619b0b0dc344cb141e493cbedc5687c8fb7c985e609a1b035e621bfab2f89021",
+      "protobuf-java-util-3.10.0.pom": "146660182d07798ced06fa8e8ae3b9faa90aa48cf3c6adfc67db9371188ba502"
+    }
+  },
+  {
+    "group": "com.google.protobuf",
+    "name": "protobuf-parent",
+    "version": "3.10.0",
+    "artifacts": {
+      "protobuf-parent-3.10.0.pom": "6dd84a508125fffdefbd583fae12bf166aa902511b570ca54fa9efa45f6dfe80"
+    }
+  },
+  {
+    "group": "com.google.testing.platform",
+    "name": "core-proto",
+    "version": "0.0.8-alpha01",
+    "artifacts": {
+      "core-proto-0.0.8-alpha01.jar": "2deaa8c40f27c8af158ae2c2132927cd9be345deb1450da49aca29cb168289cd",
+      "core-proto-0.0.8-alpha01.pom": "501e7a6b743cf4e81643ce31e2850f37477494a689513e756e059c688773867f"
+    }
+  },
+  {
+    "group": "com.google.zxing",
+    "name": "core",
+    "version": "3.3.3",
+    "artifacts": {
+      "core-3.3.3.jar": "5820f81e943e4bce0329306621e2d6255d2930b0a6ce934c5c23c0d6d3f20599",
+      "core-3.3.3.pom": "a8daf7aa94198e48049f17084d8a76a82a3edf87ae0f45a16476b90dd9e6e934"
+    }
+  },
+  {
+    "group": "com.google.zxing",
+    "name": "zxing-parent",
+    "version": "3.3.3",
+    "artifacts": {
+      "zxing-parent-3.3.3.pom": "56d4157b6805d69e97d53550c9138fe725d4dc3cf0845100035b453cdafad444"
+    }
+  },
+  {
+    "group": "com.googlecode.json-simple",
+    "name": "json-simple",
+    "version": "1.1",
+    "artifacts": {
+      "json-simple-1.1.jar": "2d9484f4c649f708f47f9a479465fc729770ee65617dca3011836602264f6439",
+      "json-simple-1.1.pom": "47a89be0fa0fedd476db5fd2c83487654d2a119c391f83a142be876667cf7dab"
+    }
+  },
+  {
+    "group": "com.googlecode.juniversalchardet",
+    "name": "juniversalchardet",
+    "version": "1.0.3",
+    "artifacts": {
+      "juniversalchardet-1.0.3.jar": "757bfe906193b8b651e79dc26cd67d6b55d0770a2cdfb0381591504f779d4a76",
+      "juniversalchardet-1.0.3.pom": "7846399b35c7cd642a9b3a000c3e2d62d04eb37a4547b6933cc8b18bcc2f086b"
+    }
+  },
+  {
+    "group": "com.intellij",
+    "name": "annotations",
+    "version": "12.0",
+    "artifacts": {
+      "annotations-12.0.jar": "f8ab13b14be080fe2f617f90e55599760e4a1b4deeea5c595df63d0d6375ed6d",
+      "annotations-12.0.pom": "faf82de0dc02e0c0ae327cd653f37255496b2e53fce280b3ab4cb34553a89086"
+    }
+  },
+  {
+    "group": "com.leinardi.android",
+    "name": "speed-dial",
+    "version": "2.0.1",
+    "artifacts": {
+      "speed-dial-2.0.1.aar": "d567c4ba6c039360b6291e3cb85a133eb53d893f412009d990f2c85d8a910d1e",
+      "speed-dial-2.0.1.pom": "72fbfd8c1d763eb02e7a035f6b3a919f9a0ca4606070f0878247e5ff39c0c713"
+    }
+  },
+  {
+    "group": "com.makeramen",
+    "name": "roundedimageview",
+    "version": "2.3.0",
+    "artifacts": {
+      "roundedimageview-2.3.0.aar": "43156c0b863a99ee22abd6c5cf67aa7b6de4dd65a63adc89d69f3eff3737afd2",
+      "roundedimageview-2.3.0.pom": "819340b2d360b3fd2269070376a347ec82c3d1fead2292c4b3544c3f55ce3e78"
+    }
+  },
+  {
+    "group": "com.squareup",
+    "name": "javapoet",
+    "version": "1.10.0",
+    "artifacts": {
+      "javapoet-1.10.0.jar": "20ef4b82e43ff7c652281a21313cf3b941092467add3fa73509c26f6969efdab",
+      "javapoet-1.10.0.pom": "1690340a222279f2cbadf373e88826fa20f7f3cc3ec0252f36818fed32701ab1"
+    }
+  },
+  {
+    "group": "com.squareup",
+    "name": "javawriter",
+    "version": "2.5.0",
+    "artifacts": {
+      "javawriter-2.5.0.jar": "fcfb09fb0ea0aa97d3cfe7ea792398081348e468f126b3603cb3803f240197f0",
+      "javawriter-2.5.0.pom": "e1abd7f1116cf5e0c59947693e2189208ec94296b2a3394c959e3511d399a7b0"
+    }
+  },
+  {
+    "group": "com.squareup.okhttp3",
+    "name": "okhttp",
+    "version": "4.9.1",
+    "artifacts": {
+      "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
+      "okhttp-4.9.1.module": "fc11e761f69bf350a6e5cd75da75b1b871264866729eee980a5eb557854f8836"
+    }
+  },
+  {
+    "group": "com.squareup.okio",
+    "name": "okio",
+    "version": "2.8.0",
+    "artifacts": {
+      "okio-2.8.0.module": "17baab7270389a5fa63ab12811864d0a00f381611bc4eb042fa1bd5918ed0965",
+      "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8"
+    }
+  },
+  {
+    "group": "com.squareup.retrofit2",
+    "name": "converter-gson",
+    "version": "2.9.0",
+    "artifacts": {
+      "converter-gson-2.9.0.jar": "32aa206b9a29c9df5eda93a092cfb3b0b9133e232c062baa882f0319f0e79f0e",
+      "converter-gson-2.9.0.pom": "62782a151a64db28c02dd92026a3867baf34d1a8f249f8942c32dff4b5a5e78f"
+    }
+  },
+  {
+    "group": "com.squareup.retrofit2",
+    "name": "retrofit",
+    "version": "2.9.0",
+    "artifacts": {
+      "retrofit-2.9.0.jar": "e6ea1929c46852f5bec66ab3357da383476cef4e8d1deefdbf195b79cc4d6581",
+      "retrofit-2.9.0.pom": "f7e96a31ded699ee36c4e77695c7c1868aa6b4c64bf998f9dfe0c66f25d0e493"
+    }
+  },
+  {
+    "group": "com.sun.activation",
+    "name": "all",
+    "version": "1.2.0",
+    "artifacts": {
+      "all-1.2.0.pom": "1d8518e3ac7532a104e4f7be77def37c982e530723c6bdb3d67708cce2b0c2c4"
+    }
+  },
+  {
+    "group": "com.sun.activation",
+    "name": "all",
+    "version": "1.2.1",
+    "artifacts": {
+      "all-1.2.1.pom": "360883bf64486ecef161b8f282f6503536dd1a670d53a0a871c8fb20170e6795"
+    }
+  },
+  {
+    "group": "com.sun.activation",
+    "name": "javax.activation",
+    "version": "1.2.0",
+    "artifacts": {
+      "javax.activation-1.2.0.jar": "993302b16cd7056f21e779cc577d175a810bb4900ef73cd8fbf2b50f928ba9ce",
+      "javax.activation-1.2.0.pom": "f879b6e945854c6900b0dbee1c8384d7ab3de7e157fd7ac84937405c416d2a5e"
+    }
+  },
+  {
+    "group": "com.sun.istack",
+    "name": "istack-commons",
+    "version": "3.0.8",
+    "artifacts": {
+      "istack-commons-3.0.8.pom": "a0f0517e8512f0fbcc7b8295c12f6566a3d0c2d86d655639dc662ef8c0c7ebe5"
+    }
+  },
+  {
+    "group": "com.sun.istack",
+    "name": "istack-commons-runtime",
+    "version": "3.0.8",
+    "artifacts": {
+      "istack-commons-runtime-3.0.8.jar": "4ffabb06be454a05e4398e20c77fa2b6308d4b88dfbef7ca30a76b5b7d5505ef",
+      "istack-commons-runtime-3.0.8.pom": "c2e014d34cb84ed287d064986c45c305a4124228a7337eccf6c421d14d708f1c"
+    }
+  },
+  {
+    "group": "com.sun.xml.bind",
+    "name": "jaxb-bom-ext",
+    "version": "2.3.2",
+    "artifacts": {
+      "jaxb-bom-ext-2.3.2.pom": "1a7dec2b27e7e055744cdb8cf1b90def4fd473acd1b804eff098139358959bd7"
+    }
+  },
+  {
+    "group": "com.sun.xml.bind.mvn",
+    "name": "jaxb-parent",
+    "version": "2.3.2",
+    "artifacts": {
+      "jaxb-parent-2.3.2.pom": "20dd6dc34ab7549ac40da1d82e92222ec4347ad0ec0cb118ef6c5703bed53a18"
+    }
+  },
+  {
+    "group": "com.sun.xml.bind.mvn",
+    "name": "jaxb-runtime-parent",
+    "version": "2.3.2",
+    "artifacts": {
+      "jaxb-runtime-parent-2.3.2.pom": "b24f8d51f184a68bc1b86d48c0e3cfefeb21a44ede1c5f7303c58ae0488533ec"
+    }
+  },
+  {
+    "group": "com.sun.xml.bind.mvn",
+    "name": "jaxb-txw-parent",
+    "version": "2.3.2",
+    "artifacts": {
+      "jaxb-txw-parent-2.3.2.pom": "b55d3efa9b158f483a30e92c78ccb600f93314733d089eba9b74436f01b314a4"
+    }
+  },
+  {
+    "group": "com.sun.xml.fastinfoset",
+    "name": "FastInfoset",
+    "version": "1.2.16",
+    "artifacts": {
+      "FastInfoset-1.2.16.jar": "056f3a1e144409f21ed16afc26805f58e9a21f3fce1543c42d400719d250c511",
+      "FastInfoset-1.2.16.pom": "e147d258ab6e6691f70599a952400e6e6c7558f8c9c028dbe1be23178308e830"
+    }
+  },
+  {
+    "group": "com.sun.xml.fastinfoset",
+    "name": "fastinfoset-project",
+    "version": "1.2.16",
+    "artifacts": {
+      "fastinfoset-project-1.2.16.pom": "90582425adc1f40b41362dafb95173931225acaa5e79620d5e6bd52f646292ba"
+    }
+  },
+  {
+    "group": "com.theartofdev.edmodo",
+    "name": "android-image-cropper",
+    "version": "2.8.0",
+    "artifacts": {
+      "android-image-cropper-2.8.0.aar": "5516ea87672e478b3d0ed5c274a7df27d22c02e66f899388f9b8bee93669e176",
+      "android-image-cropper-2.8.0.pom": "b7d22afbb7bd101eac8a7d87643d3e97059ad7cbf87d0318c76f13b331a4456e"
+    }
+  },
+  {
+    "group": "com.wefika",
+    "name": "flowlayout",
+    "version": "0.4.1",
+    "artifacts": {
+      "flowlayout-0.4.1.aar": "3bf0b0d6600fbf667887997304980a8f17fe57a59d0426d803f993bf8be80221",
+      "flowlayout-0.4.1.pom": "779265d5b923b5527e7440d3624ada2d8cdf75801805c835465af3a1347e2d0d"
+    }
+  },
+  {
+    "group": "commons-codec",
+    "name": "commons-codec",
+    "version": "1.10",
+    "artifacts": {
+      "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
+      "commons-codec-1.10.pom": "bdb8db7012d112a6e3ea8fdb7c510b300d99eff0819d27dddba9c43397ea4cfb"
+    }
+  },
+  {
+    "group": "commons-io",
+    "name": "commons-io",
+    "version": "2.4",
+    "artifacts": {
+      "commons-io-2.4.jar": "cc6a41dc3eaacc9e440a6bd0d2890b20d36b4ee408fe2d67122f328bb6e01581",
+      "commons-io-2.4.pom": "b2b5dd46cf998fa626eb6f8a1c114f6167c8d392694164e62533e5898e9b31f2"
+    }
+  },
+  {
+    "group": "commons-logging",
+    "name": "commons-logging",
+    "version": "1.2",
+    "artifacts": {
+      "commons-logging-1.2.jar": "daddea1ea0be0f56978ab3006b8ac92834afeefbd9b7e4e6316fca57df0fa636",
+      "commons-logging-1.2.pom": "c91ab5aa570d86f6fd07cc158ec6bc2c50080402972ee9179fe24100739fbb20"
+    }
+  },
+  {
+    "group": "de.measite.minidns",
+    "name": "minidns-core",
+    "version": "0.2.4",
+    "artifacts": {
+      "minidns-core-0.2.4.jar": "562643c3524cb09ae60d6d8c29d3cfa6c6bf1e85cfe220c9555493cea1b7e6d6",
+      "minidns-core-0.2.4.pom": "74253791ac735900751d839481ec978bc0ae9a684394453330fa204f78e27113"
+    }
+  },
+  {
+    "group": "de.measite.minidns",
+    "name": "minidns-dnssec",
+    "version": "0.2.4",
+    "artifacts": {
+      "minidns-dnssec-0.2.4.jar": "bc5463874679dab8ecb375fb960d41f22ae5963c992b1b6bc378653191bcc3d8",
+      "minidns-dnssec-0.2.4.pom": "ddd38f49195b009d630002e16bc1fe3a638c465c75385b3c29e1272d3f4bb976"
+    }
+  },
+  {
+    "group": "de.measite.minidns",
+    "name": "minidns-hla",
+    "version": "0.2.4",
+    "artifacts": {
+      "minidns-hla-0.2.4.jar": "f7c5d3fe56151bc64827eb9b6bea365a76150e6c7333c06ac83384e7b0371ec3",
+      "minidns-hla-0.2.4.pom": "9702ae8b9d2dc74ae590cb4ecd2e0ac130e0fe14b2cb83d913ea98a2f3f1b541"
+    }
+  },
+  {
+    "group": "de.measite.minidns",
+    "name": "minidns-iterative-resolver",
+    "version": "0.2.4",
+    "artifacts": {
+      "minidns-iterative-resolver-0.2.4.jar": "37d1df34dd0db616b409ca041e93a89260b524a11b55c6a8fd64fff065298323",
+      "minidns-iterative-resolver-0.2.4.pom": "9be0e79caf3db8b0564d38a6d9c7b2e6df36f53149ff231da2180be7dfb6ed1f"
+    }
+  },
+  {
+    "group": "io.michaelrocks",
+    "name": "libphonenumber-android",
+    "version": "8.12.18",
+    "artifacts": {
+      "libphonenumber-android-8.12.18.aar": "44c91e535f7b1f238e833bf8a4f2d418a9435391d8d68fad2ab09bd6caac1336",
+      "libphonenumber-android-8.12.18.pom": "d6df2e9c77070ccbc8cd904513f015ed948f3bf9cdaafbefb6611028d1e4f539"
+    }
+  },
+  {
+    "group": "it.unimi.dsi",
+    "name": "fastutil",
+    "version": "8.4.0",
+    "artifacts": {
+      "fastutil-8.4.0.jar": "2ad2824a4a0a0eb836b52ee2fc84ba2134f44bce7bfa54015ae3f31c710a3071",
+      "fastutil-8.4.0.pom": "110e6f66c7d5ed3c91408eb0b49d40791614decc842eb92d7547ae7f88482822"
+    }
+  },
+  {
+    "group": "jakarta.activation",
+    "name": "jakarta.activation-api",
+    "version": "1.2.1",
+    "artifacts": {
+      "jakarta.activation-api-1.2.1.jar": "8b0a0f52fa8b05c5431921a063ed866efaa41dadf2e3a7ee3e1961f2b0d9645b",
+      "jakarta.activation-api-1.2.1.pom": "42585cb07dda7f23aa04eb5e0940061944a246a67ad3d16942fbe569ff03cd31"
+    }
+  },
+  {
+    "group": "jakarta.xml.bind",
+    "name": "jakarta.xml.bind-api",
+    "version": "2.3.2",
+    "artifacts": {
+      "jakarta.xml.bind-api-2.3.2.jar": "69156304079bdeed9fc0ae3b39389f19b3cc4ba4443bc80508995394ead742ea",
+      "jakarta.xml.bind-api-2.3.2.pom": "b537b388dbab4cc0690b9d2fb0c74124d672531734567acf6e53130eab131ad6"
+    }
+  },
+  {
+    "group": "jakarta.xml.bind",
+    "name": "jakarta.xml.bind-api-parent",
+    "version": "2.3.2",
+    "artifacts": {
+      "jakarta.xml.bind-api-parent-2.3.2.pom": "15a55b7d537c9f9970aead28d2af97c059f65ff6102f76bbd29f1247dd8a6dfb"
+    }
+  },
+  {
+    "group": "javax.inject",
+    "name": "javax.inject",
+    "version": "1",
+    "artifacts": {
+      "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
+      "javax.inject-1.pom": "943e12b100627804638fa285805a0ab788a680266531e650921ebfe4621a8bfa"
+    }
+  },
+  {
+    "group": "me.drakeet.support",
+    "name": "toastcompat",
+    "version": "1.1.0",
+    "artifacts": {
+      "toastcompat-1.1.0.aar": "db8908a91cc3b01b324fbd16c51d949b5d20e503e15a36f513c8b7f845356709",
+      "toastcompat-1.1.0.pom": "1ebe5463dfc5dcfc12ea38640be35533b834bd4073a943242470243daf7e7be4"
+    }
+  },
+  {
+    "group": "me.leolin",
+    "name": "ShortcutBadger",
+    "version": "1.1.22",
+    "artifacts": {
+      "ShortcutBadger-1.1.22.aar": "cd1610dc48c5699229502187fdc3b5c5433870d5aab159332121b1f8c1dad8c3",
+      "ShortcutBadger-1.1.22.pom": "1cfb0a209ad4de5d95bbefdb48cc3da7af1c70fa9eda8b8a06ae0616946cd28a"
+    }
+  },
+  {
+    "group": "net.java",
+    "name": "jvnet-parent",
+    "version": "1",
+    "artifacts": {
+      "jvnet-parent-1.pom": "281440811268e65d9e266b3cc898297e214e04f09740d0386ceeb4a8923d63bf"
+    }
+  },
+  {
+    "group": "net.java.dev.jna",
+    "name": "jna",
+    "version": "5.6.0",
+    "artifacts": {
+      "jna-5.6.0.jar": "5557e235a8aa2f9766d5dc609d67948f2a8832c2d796cea9ef1d6cbe0b3b7eaf",
+      "jna-5.6.0.pom": "5fe81b0255978f24616d37b10608b79498a5f3073e1d9b2038d8736a831f2608"
+    }
+  },
+  {
+    "group": "net.java.dev.jna",
+    "name": "jna-platform",
+    "version": "5.6.0",
+    "artifacts": {
+      "jna-platform-5.6.0.jar": "9ecea8bf2b1b39963939d18b70464eef60c508fed8820f9dcaba0c35518eabf7",
+      "jna-platform-5.6.0.pom": "1beb35cb4184e6c906a7e32eaebd852dd3da0a263962e99134ab945832394e28"
+    }
+  },
+  {
+    "group": "net.sf.jopt-simple",
+    "name": "jopt-simple",
+    "version": "4.9",
+    "artifacts": {
+      "jopt-simple-4.9.jar": "26c5856e954b5f864db76f13b86919b59c6eecf9fd930b96baa8884626baf2f5",
+      "jopt-simple-4.9.pom": "7af7e2d8b24b4798f04c2b7da24c9fbd1b7557b4e017c2054481565916079092"
+    }
+  },
+  {
+    "group": "net.sf.kxml",
+    "name": "kxml2",
+    "version": "2.3.0",
+    "artifacts": {
+      "kxml2-2.3.0.jar": "f264dd9f79a1fde10ce5ecc53221eff24be4c9331c830b7d52f2f08a7b633de2",
+      "kxml2-2.3.0.pom": "31ce606f4e9518936299bb0d27c978fa61e185fd1de7c9874fe959a53e34a685"
+    }
+  },
+  {
+    "group": "net.sf.proguard",
+    "name": "proguard-base",
+    "version": "6.0.3",
+    "artifacts": {
+      "proguard-base-6.0.3.jar": "75bc89695fa66e75374ecda439b802406f0ab1d826dd386eed0a23b1f0a9d264",
+      "proguard-base-6.0.3.pom": "2a823d79f2675582a988d539466d1b175e939782efbe0f6e61f06cb165ed4907"
+    }
+  },
+  {
+    "group": "net.sf.proguard",
+    "name": "proguard-gradle",
+    "version": "6.0.3",
+    "artifacts": {
+      "proguard-gradle-6.0.3.jar": "cc12b1168e521491dd0e687cfebec11a4af874b22af70e10cf2a05b47ca00c8f",
+      "proguard-gradle-6.0.3.pom": "5a5c7317d68ce80d1d40c9d8bd4e38814d42d1b16c265146e333634833a35a57"
+    }
+  },
+  {
+    "group": "net.sf.proguard",
+    "name": "proguard-parent",
+    "version": "6.0.3",
+    "artifacts": {
+      "proguard-parent-6.0.3.pom": "d87266bfd2312c3b036c4ac709310afa35c448ceb18027c3b87a33d03c6de0a0"
+    }
+  },
+  {
+    "group": "net.ypresto.androidtranscoder",
+    "name": "android-transcoder",
+    "version": "0.3.0",
+    "artifacts": {
+      "android-transcoder-0.3.0.aar": "aa3004e41634e581c007b6c6be73af61dfd70f6f00707614b864e3586998b9d1",
+      "android-transcoder-0.3.0.pom": "a6f14f96c4c67c5edee59c1a01adf0c2f8efd14926c8e973ac2f46cdf544c83a"
+    }
+  },
+  {
+    "group": "org.antlr",
+    "name": "antlr4",
+    "version": "4.5.3",
+    "artifacts": {
+      "antlr4-4.5.3.jar": "a32de739cfdf515774e696f91aa9697d2e7731e5cb5045ca8a4b657f8b1b4fb4",
+      "antlr4-4.5.3.pom": "8a4e4b32eedaa72976a757e12cf1dfe742725db0b7311bf176dd937ba4236384"
+    }
+  },
+  {
+    "group": "org.antlr",
+    "name": "antlr4-master",
+    "version": "4.5.3",
+    "artifacts": {
+      "antlr4-master-4.5.3.pom": "401877d5e70ad599e9b6cff18434ea0332f637b51f8ec68352646c836f9bb2a4"
+    }
+  },
+  {
+    "group": "org.apache",
+    "name": "apache",
+    "version": "13",
+    "artifacts": {
+      "apache-13.pom": "ff513db0361fd41237bef4784968bc15aae478d4ec0a9496f811072ccaf3841d"
+    }
+  },
+  {
+    "group": "org.apache",
+    "name": "apache",
+    "version": "15",
+    "artifacts": {
+      "apache-15.pom": "36c2f2f979ac67b450c0cb480e4e9baf6b40f3a681f22ba9692287d1139ad494"
+    }
+  },
+  {
+    "group": "org.apache",
+    "name": "apache",
+    "version": "16",
+    "artifacts": {
+      "apache-16.pom": "9f85ff2fd7d6cb3097aa47fb419ee7f0ebe869109f98aba9f4eca3f49e74a40e"
+    }
+  },
+  {
+    "group": "org.apache",
+    "name": "apache",
+    "version": "18",
+    "artifacts": {
+      "apache-18.pom": "7831307285fd475bbc36b20ae38e7882f11c3153b1d5930f852d44eda8f33c17"
+    }
+  },
+  {
+    "group": "org.apache",
+    "name": "apache",
+    "version": "9",
+    "artifacts": {
+      "apache-9.pom": "4946e60a547c8eda69f3bc23c5b6f0dadcf8469ea49b1d1da7de34aecfcf18dd"
+    }
+  },
+  {
+    "group": "org.apache.commons",
+    "name": "commons-compress",
+    "version": "1.12",
+    "artifacts": {
+      "commons-compress-1.12.jar": "2c1542faf343185b7cab9c3d55c8ae5471d6d095d3887a4adefdbdf2984dc0b6",
+      "commons-compress-1.12.pom": "b787d574c851505e76212968b9ae1641ea79804aef7f5a2cee2a01cd4055213a"
+    }
+  },
+  {
+    "group": "org.apache.commons",
+    "name": "commons-parent",
+    "version": "25",
+    "artifacts": {
+      "commons-parent-25.pom": "467ae650442e876867379094e7518dfdd67d22c5352ebd39808c84259e9790ba"
+    }
+  },
+  {
+    "group": "org.apache.commons",
+    "name": "commons-parent",
+    "version": "34",
+    "artifacts": {
+      "commons-parent-34.pom": "3a2e69d06d641d1f3b293126dc9e2e4ea6563bf8c36c87e0ab6fa4292d04b79c"
+    }
+  },
+  {
+    "group": "org.apache.commons",
+    "name": "commons-parent",
+    "version": "35",
+    "artifacts": {
+      "commons-parent-35.pom": "7098a1ab8336ecd4c9dc21cbbcac869f82c66f64b8ac4f7988d41b4fcb44e49a"
+    }
+  },
+  {
+    "group": "org.apache.commons",
+    "name": "commons-parent",
+    "version": "39",
+    "artifacts": {
+      "commons-parent-39.pom": "87cd27e1a02a5c3eb6d85059ce98696bb1b44c2b8b650f0567c86df60fa61da7"
+    }
+  },
+  {
+    "group": "org.apache.httpcomponents",
+    "name": "httpclient",
+    "version": "4.5.6",
+    "artifacts": {
+      "httpclient-4.5.6.jar": "c03f813195e7a80e3608d0ddd8da80b21696a4c92a6a2298865bf149071551c7",
+      "httpclient-4.5.6.pom": "7efc1241e73e7fbb268bfd33242d11ebd3ca07061d7d85f2962dc32a0f0b8855"
+    }
+  },
+  {
+    "group": "org.apache.httpcomponents",
+    "name": "httpcomponents-client",
+    "version": "4.5.6",
+    "artifacts": {
+      "httpcomponents-client-4.5.6.pom": "b042b41f2391edb00d35f7f4e509aed2123648c1d246ce58d0f7b905c9fe1f73"
+    }
+  },
+  {
+    "group": "org.apache.httpcomponents",
+    "name": "httpcomponents-core",
+    "version": "4.4.10",
+    "artifacts": {
+      "httpcomponents-core-4.4.10.pom": "61e9427d4be326c307a7f16ba828d1cb3b14713c9b04fc8ba992a58f376c3136"
+    }
+  },
+  {
+    "group": "org.apache.httpcomponents",
+    "name": "httpcomponents-parent",
+    "version": "10",
+    "artifacts": {
+      "httpcomponents-parent-10.pom": "caaf967d94afb21753f36082c6086206bd1f48825ff596932cceba72b65d39fa"
+    }
+  },
+  {
+    "group": "org.apache.httpcomponents",
+    "name": "httpcore",
+    "version": "4.4.10",
+    "artifacts": {
+      "httpcore-4.4.10.jar": "78ba1096561957db1b55200a159b648876430342d15d461277e62360da19f6fd",
+      "httpcore-4.4.10.pom": "c5c12066df2b3b88a89a2c8602b81ea9a61627e976e5129eea1899ebbaea392b"
+    }
+  },
+  {
+    "group": "org.apache.httpcomponents",
+    "name": "httpmime",
+    "version": "4.5.6",
+    "artifacts": {
+      "httpmime-4.5.6.jar": "0b2b1102c18d3c7e05a77214b9b7501a6f6056174ae5604e0e256776eda7553e",
+      "httpmime-4.5.6.pom": "dfbfd6ffe2a784ca9817c46365aa7f8a578320b805bde39d6f55a0b09d8aa8ca"
+    }
+  },
+  {
+    "group": "org.bouncycastle",
+    "name": "bcmail-jdk15on",
+    "version": "1.64",
+    "artifacts": {
+      "bcmail-jdk15on-1.64.jar": "9b88abe9e981d17113a081a4b4261f4082ccdf9144a8a8373fc460c586f6b13a",
+      "bcmail-jdk15on-1.64.pom": "4749d41f03c0031a5204c0922e77c46df43bfb54e4eb9a87a952ee3876daa4d2"
+    }
+  },
+  {
+    "group": "org.bouncycastle",
+    "name": "bcpkix-jdk15on",
+    "version": "1.56",
+    "artifacts": {
+      "bcpkix-jdk15on-1.56.jar": "7043dee4e9e7175e93e0b36f45b1ec1ecb893c5f755667e8b916eb8dd201c6ca",
+      "bcpkix-jdk15on-1.56.pom": "321668fc474a73140eb9cc73c779f1ebb9f60948aade3beddee082ecefcf0259"
+    }
+  },
+  {
+    "group": "org.bouncycastle",
+    "name": "bcpkix-jdk15on",
+    "version": "1.64",
+    "artifacts": {
+      "bcpkix-jdk15on-1.64.jar": "84669138b1d99143e2c009024f67824ab8d3edb9b05b7591f5ebfb020a4bda71",
+      "bcpkix-jdk15on-1.64.pom": "350235c743e4278cd2e4af9edc1eab4b35b2984de0c5d80b9ca9174d8fed646a"
+    }
+  },
+  {
+    "group": "org.bouncycastle",
+    "name": "bcprov-jdk15on",
+    "version": "1.56",
+    "artifacts": {
+      "bcprov-jdk15on-1.56.jar": "963e1ee14f808ffb99897d848ddcdb28fa91ddda867eb18d303e82728f878349",
+      "bcprov-jdk15on-1.56.pom": "8fdc3336e7b01873193ba9c48b87de7d788dc0954d1eb45c322492627a4b5c6e"
+    }
+  },
+  {
+    "group": "org.bouncycastle",
+    "name": "bcprov-jdk15on",
+    "version": "1.64",
+    "artifacts": {
+      "bcprov-jdk15on-1.64.jar": "a4f463ce552b908a722fa198ef4892a226b3225e453f8df10d5c0a5bfe5db6b6",
+      "bcprov-jdk15on-1.64.pom": "87852f79d94c1cc65799bd6e276f309e672e6118e0a3eb800db091ab03419a79"
+    }
+  },
+  {
+    "group": "org.checkerframework",
+    "name": "checker-compat-qual",
+    "version": "2.5.5",
+    "artifacts": {
+      "checker-compat-qual-2.5.5.jar": "11d134b245e9cacc474514d2d66b5b8618f8039a1465cdc55bbc0b34e0008b7a",
+      "checker-compat-qual-2.5.5.pom": "42f21ebd9183be049ee5afc822b345403a5da764037875734a039b0d6e0353be"
+    }
+  },
+  {
+    "group": "org.checkerframework",
+    "name": "checker-qual",
+    "version": "2.5.8",
+    "artifacts": {
+      "checker-qual-2.5.8.pom": "33ac6a0f1341ae96647c7d4465f4aa3d24fe97d2697bcee2ceae6fc8b5ef2c3c"
+    }
+  },
+  {
+    "group": "org.checkerframework",
+    "name": "checker-qual",
+    "version": "2.8.1",
+    "artifacts": {
+      "checker-qual-2.8.1.jar": "9103499008bcecd4e948da29b17864abb64304e15706444ae209d17ebe0575df",
+      "checker-qual-2.8.1.pom": "f23376b58ed795f2ff47426ac76b996d49e3918442e5d8713e3925f889a77799"
+    }
+  },
+  {
+    "group": "org.codehaus.groovy",
+    "name": "groovy-all",
+    "version": "2.4.15",
+    "artifacts": {
+      "groovy-all-2.4.15.jar": "51d6c4e71782e85674239189499854359d380fb75e1a703756e3aaa5b98a5af0",
+      "groovy-all-2.4.15.pom": "fc0d535d7bdb7ca90562321c2e8e2a35c377f113c6dd0b2062282e1f4676367a"
+    }
+  },
+  {
+    "group": "org.codehaus.mojo",
+    "name": "animal-sniffer-annotations",
+    "version": "1.18",
+    "artifacts": {
+      "animal-sniffer-annotations-1.18.jar": "47f05852b48ee9baefef80fa3d8cea60efa4753c0013121dd7fe5eef2e5c729d",
+      "animal-sniffer-annotations-1.18.pom": "adf522f4839c35f5329ea97c407aebebfa8807b644852dc4d5cd7c97b7a6d2e0"
+    }
+  },
+  {
+    "group": "org.codehaus.mojo",
+    "name": "animal-sniffer-parent",
+    "version": "1.18",
+    "artifacts": {
+      "animal-sniffer-parent-1.18.pom": "4e9df546a47cf6304a1317c46870100a8726fbea11b0dd18322f957e4070973c"
+    }
+  },
+  {
+    "group": "org.codehaus.mojo",
+    "name": "mojo-parent",
+    "version": "50",
+    "artifacts": {
+      "mojo-parent-50.pom": "f819cad1b15b6a7791c8b601e96bde33765e4681395807db4537d2f0dedd493b"
+    }
+  },
+  {
+    "group": "org.conscrypt",
+    "name": "conscrypt-android",
+    "version": "2.5.2",
+    "artifacts": {
+      "conscrypt-android-2.5.2.aar": "42d18979caf53f5ef68548c76d4c98b41adb910a32ad9448133f9c5b20bd65a3",
+      "conscrypt-android-2.5.2.pom": "bfdf7f13fb78550ffff265adc1d7d9b8e37dbdd60b3fd7bfd410ea2f768ed124"
+    }
+  },
+  {
+    "group": "org.eclipse.ee4j",
+    "name": "project",
+    "version": "1.0.2",
+    "artifacts": {
+      "project-1.0.2.pom": "7495a07a797e88e43c3bc1a87421bd8b1fc55e32291fa18e4e32d8031ddc873f"
+    }
+  },
+  {
+    "group": "org.eclipse.ee4j",
+    "name": "project",
+    "version": "1.0.5",
+    "artifacts": {
+      "project-1.0.5.pom": "916b4794d8d8220a59a3fdf6a64dbe794aeb23395e888b81ae36a9b5a2c591a6"
+    }
+  },
+  {
+    "group": "org.glassfish.jaxb",
+    "name": "jaxb-bom",
+    "version": "2.3.2",
+    "artifacts": {
+      "jaxb-bom-2.3.2.pom": "a1018bb54678ed9f5acb2f7a4084e385ff510201f4e9dbf5f75dc6a675f66be7"
+    }
+  },
+  {
+    "group": "org.glassfish.jaxb",
+    "name": "jaxb-runtime",
+    "version": "2.3.2",
+    "artifacts": {
+      "jaxb-runtime-2.3.2.jar": "e6e0a1e89fb6ff786279e6a0082d5cef52dc2ebe67053d041800737652b4fd1b",
+      "jaxb-runtime-2.3.2.pom": "9448a5ad7fa68a6083dfbe4f42c8c83e082b9202a105401fc68e944c26548b34"
+    }
+  },
+  {
+    "group": "org.glassfish.jaxb",
+    "name": "txw2",
+    "version": "2.3.2",
+    "artifacts": {
+      "txw2-2.3.2.jar": "4a6a9f483388d461b81aa9a28c685b8b74c0597993bf1884b04eddbca95f48fe",
+      "txw2-2.3.2.pom": "a79dd002fb038183ff286a2635be2e68c103b87e0e64717d8d44bfd017fd33ea"
+    }
+  },
+  {
+    "group": "org.hsluv",
+    "name": "hsluv",
+    "version": "0.2",
+    "artifacts": {
+      "hsluv-0.2.jar": "e4b9fd69e3a6c5f7864de3c015d5efa4a6b50336a6940946d76bde6df613391b",
+      "hsluv-0.2.pom": "59f20d78493dd747b0e174e89abac8fbde1f3bfdcebb0c578e04f7105ba964e0"
+    }
+  },
+  {
+    "group": "org.jdom",
+    "name": "jdom2",
+    "version": "2.0.6",
+    "artifacts": {
+      "jdom2-2.0.6.jar": "1345f11ba606d15603d6740551a8c21947c0215640770ec67271fe78bea97cf5",
+      "jdom2-2.0.6.pom": "47b23a79fe336b741b82434c6e049d68165256e405e75c10921fd72fa8a65d8d"
+    }
+  },
+  {
+    "group": "org.jetbrains",
+    "name": "annotations",
+    "version": "13.0",
+    "artifacts": {
+      "annotations-13.0.jar": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478",
+      "annotations-13.0.pom": "965aeb2bedff369819bdde1bf7a0b3b89b8247dd69c88b86375d76163bb8c397"
+    }
+  },
+  {
+    "group": "org.jetbrains.intellij.deps",
+    "name": "trove4j",
+    "version": "1.0.20181211",
+    "artifacts": {
+      "trove4j-1.0.20181211.jar": "affb7c85a3c87bdcf69ff1dbb84de11f63dc931293934bc08cd7ab18de083601",
+      "trove4j-1.0.20181211.pom": "310a6aa2d90534c32b8f46f1fc98cd0edae95dcdfca23e2847e5efa9ae0c019a"
+    }
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "name": "kotlin-reflect",
+    "version": "1.4.31",
+    "artifacts": {
+      "kotlin-reflect-1.4.31.jar": "91fad0b42974a7d5811e30a61f05706e176b144235717c6de7e81e3a781028f2",
+      "kotlin-reflect-1.4.31.pom": "8e49bab843dd855f315c87e390c529a9ca239121d8bffb85b3acfa2f60603697"
+    }
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "name": "kotlin-stdlib",
+    "version": "1.4.10",
+    "artifacts": {
+      "kotlin-stdlib-1.4.10.jar": "01ecb09782c042b931c1839acf21a188340b295d05400afd6e3415d4475b8daa",
+      "kotlin-stdlib-1.4.10.pom": "a4b9cfbb4bbda523af1e24d52c775fb9c0f7cb568e48b065d45aeb56e63c2762"
+    }
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "name": "kotlin-stdlib",
+    "version": "1.4.31",
+    "artifacts": {
+      "kotlin-stdlib-1.4.31.jar": "76a599d88b167e8ac90879b6daa722c6ad3452ba714c9aba19bd196544b97f1c",
+      "kotlin-stdlib-1.4.31.pom": "8519e3e7ac5ee700527ee10488eb432f1aa106dccdde7c06c3bab258a1ddbd4e"
+    }
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "name": "kotlin-stdlib-common",
+    "version": "1.4.0",
+    "artifacts": {
+      "kotlin-stdlib-common-1.4.0.pom": "98e59a445a3248f58811ce6782485de53fa77fc6f5adb3eb766a78b1231abd0a"
+    }
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "name": "kotlin-stdlib-common",
+    "version": "1.4.10",
+    "artifacts": {
+      "kotlin-stdlib-common-1.4.10.jar": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe",
+      "kotlin-stdlib-common-1.4.10.pom": "63480e72a7d4de742b49a6ff90e45f544ca37f3fe11af8b4839f9cd747515d00"
+    }
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "name": "kotlin-stdlib-common",
+    "version": "1.4.31",
+    "artifacts": {
+      "kotlin-stdlib-common-1.4.31.jar": "57962f44371a746b678218a0802a8712c6255206de9a69ede215e3aa4b044708",
+      "kotlin-stdlib-common-1.4.31.pom": "1582ab130b68fcbb89b2e915573c1f99f8ba3bc68fdd451f6b362d6c53353187"
+    }
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "name": "kotlin-stdlib-jdk7",
+    "version": "1.4.31",
+    "artifacts": {
+      "kotlin-stdlib-jdk7-1.4.31.jar": "1f966e54e86cf4b7d7014afdce04e0f3ee4625084cda3494edccc7b84af52664",
+      "kotlin-stdlib-jdk7-1.4.31.pom": "f67e52bebc23a07e23d51e525d20f59de8da6720bde2ff7c598f99ba9c272118"
+    }
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "name": "kotlin-stdlib-jdk8",
+    "version": "1.4.31",
+    "artifacts": {
+      "kotlin-stdlib-jdk8-1.4.31.jar": "b2f8364435ebcb0106ff9d4415a11ffdef8ec7786ee6e5ed465a01556cbd1683",
+      "kotlin-stdlib-jdk8-1.4.31.pom": "4ee4f626e69f5f6fdad8cd28ad555a0ff416c84f25a569ec0a4b3587f86df457"
+    }
+  },
+  {
+    "group": "org.json",
+    "name": "json",
+    "version": "20180813",
+    "artifacts": {
+      "json-20180813.jar": "518080049ba83181914419d11a25d9bc9833a2d729b6a6e7469fa52851356da8",
+      "json-20180813.pom": "c7e660c50bf4ecda0fc81ab62b489db9171e207fa784ddcb48c6c85bb40b49f5"
+    }
+  },
+  {
+    "group": "org.jvnet.staxex",
+    "name": "stax-ex",
+    "version": "1.8.1",
+    "artifacts": {
+      "stax-ex-1.8.1.jar": "20522549056e9e50aa35ef0b445a2e47a53d06be0b0a9467d704e2483ffb049a",
+      "stax-ex-1.8.1.pom": "8fc84f36ce6da6ce8c893b6538199a7f69a69a0706d9b17a3ee6a3a09452eed6"
+    }
+  },
+  {
+    "group": "org.jxmpp",
+    "name": "jxmpp-core",
+    "version": "1.0.1",
+    "artifacts": {
+      "jxmpp-core-1.0.1.jar": "a8e7d6ee3a07ebbb6f93d8c2aa606f8f289e387aa9e483e63cfc06b498b1a212",
+      "jxmpp-core-1.0.1.module": "e81b0a6089ff4bde0914414d31a28bde59378aae9ab7ffe97fcd2d8482b2743d"
+    }
+  },
+  {
+    "group": "org.jxmpp",
+    "name": "jxmpp-jid",
+    "version": "1.0.1",
+    "artifacts": {
+      "jxmpp-jid-1.0.1.jar": "9d7097f2c07bd8d3e22ce5c4ecb3ed15022a49c6ca1f88088bec591d09413d13",
+      "jxmpp-jid-1.0.1.module": "ccb6ea7762242180f8d43e52746f93e231256de33cfd2c5a37aa5cdc3ef9f21d"
+    }
+  },
+  {
+    "group": "org.jxmpp",
+    "name": "jxmpp-util-cache",
+    "version": "1.0.1",
+    "artifacts": {
+      "jxmpp-util-cache-1.0.1.jar": "6729187732488ac54032362cbc29179b4f061fcdeaa336a8e847b5080c28a6c2",
+      "jxmpp-util-cache-1.0.1.module": "00a952e9c8701718f4b7bb2a4be3e2a8eee852a1252b4d6aa3896ff4a61ae120"
+    }
+  },
+  {
+    "group": "org.osmdroid",
+    "name": "osmdroid-android",
+    "version": "6.1.10",
+    "artifacts": {
+      "osmdroid-android-6.1.10.aar": "7ff9e96eb42d96589420f6f8638ff3e3c79cc15bb98a57ec37ac06a7fce2b827",
+      "osmdroid-android-6.1.10.pom": "382d3d6f4925629f687371d45c4682394344d505c4c5249ba25fc40830cf6499"
+    }
+  },
+  {
+    "group": "org.ow2",
+    "name": "ow2",
+    "version": "1.5",
+    "artifacts": {
+      "ow2-1.5.pom": "0f8a1b116e760b8fe6389c51b84e4b07a70fc11082d4f936e453b583dd50b43b"
+    }
+  },
+  {
+    "group": "org.ow2.asm",
+    "name": "asm",
+    "version": "7.0",
+    "artifacts": {
+      "asm-7.0.jar": "b88ef66468b3c978ad0c97fd6e90979e56155b4ac69089ba7a44e9aa7ffe9acf",
+      "asm-7.0.pom": "83f65b1083d5ce4f8ba7f9545cfe9ff17824589c9a7cc82c3a4695801e4f5f68"
+    }
+  },
+  {
+    "group": "org.ow2.asm",
+    "name": "asm-analysis",
+    "version": "7.0",
+    "artifacts": {
+      "asm-analysis-7.0.jar": "e981f8f650c4d900bb033650b18e122fa6b161eadd5f88978d08751f72ee8474",
+      "asm-analysis-7.0.pom": "c6b54477e9d5bae1e7addff2e24cbf92aaff2ff08fd6bc0596c3933c3fadc2cb"
+    }
+  },
+  {
+    "group": "org.ow2.asm",
+    "name": "asm-commons",
+    "version": "7.0",
+    "artifacts": {
+      "asm-commons-7.0.jar": "fed348ef05958e3e846a3ac074a12af5f7936ef3d21ce44a62c4fa08a771927d",
+      "asm-commons-7.0.pom": "f4c697886cdb4a5b2472054a0b5e34371e9b48e620be40c3ed48e1f4b6d51eb4"
+    }
+  },
+  {
+    "group": "org.ow2.asm",
+    "name": "asm-tree",
+    "version": "7.0",
+    "artifacts": {
+      "asm-tree-7.0.jar": "cfd7a0874f9de36a999c127feeadfbfe6e04d4a71ee954d7af3d853f0be48a6c",
+      "asm-tree-7.0.pom": "d39e7dd12f4ff535a0839d1949c39c7644355a4470220c94b76a5c168c57a068"
+    }
+  },
+  {
+    "group": "org.ow2.asm",
+    "name": "asm-util",
+    "version": "7.0",
+    "artifacts": {
+      "asm-util-7.0.jar": "75fbbca440ef463f41c2b0ab1a80abe67e910ac486da60a7863cbcb5bae7e145",
+      "asm-util-7.0.pom": "e07bce4bb55d5a06f4c10d912fc9dee8a9b9c04ec549bbb8db4f20db34706f75"
+    }
+  },
+  {
+    "group": "org.sonatype.oss",
+    "name": "oss-parent",
+    "version": "7",
+    "artifacts": {
+      "oss-parent-7.pom": "b51f8867c92b6a722499557fc3a1fdea77bdf9ef574722fe90ce436a29559454"
+    }
+  },
+  {
+    "group": "org.sonatype.oss",
+    "name": "oss-parent",
+    "version": "9",
+    "artifacts": {
+      "oss-parent-9.pom": "fb40265f982548212ff82e362e59732b2187ec6f0d80182885c14ef1f982827a"
+    }
+  },
+  {
+    "group": "org.sufficientlysecure",
+    "name": "openpgp-api",
+    "version": "10.0",
+    "artifacts": {
+      "openpgp-api-10.0.aar": "62987fc908a3b26af80e9aa16ec80530975710cfa9a8962abeb81252cd3de33f",
+      "openpgp-api-10.0.pom": "fcd37f77349d0d23ab200d70434eee5cd0cb3e3bc72d4dd5692781eeae2a312e"
+    }
+  },
+  {
+    "group": "org.tensorflow",
+    "name": "tensorflow-lite-metadata",
+    "version": "0.1.0-rc2",
+    "artifacts": {
+      "tensorflow-lite-metadata-0.1.0-rc2.jar": "2c2a264f842498c36d34d2a7b91342490d9a962862c85baac1acd54ec2fca6d9",
+      "tensorflow-lite-metadata-0.1.0-rc2.pom": "9a4f5e5674366c156c90391662f03ed7c5971d6aa63832df74a271da6ff82e96"
+    }
+  },
+  {
+    "group": "org.whispersystems",
+    "name": "curve25519-java",
+    "version": "0.4.1",
+    "artifacts": {
+      "curve25519-java-0.4.1.jar": "7dd659d8822c06c3aea1a47f18fac9e5761e29cab8100030b877db445005f03e",
+      "curve25519-java-0.4.1.pom": "4341aea8f48d44a2a926b1a058951c592b6c6a297766b99df440e6cc27e1e46b"
+    }
+  },
+  {
+    "group": "org.whispersystems",
+    "name": "signal-protocol-java",
+    "version": "2.6.2",
+    "artifacts": {
+      "signal-protocol-java-2.6.2.jar": "5152c2b01a25147967d6bf82e540f947901bdfa79260be3eb3e96b03f787d6b5",
+      "signal-protocol-java-2.6.2.pom": "5a7d4fbfef572478ae8680475dff990afec8521308eba7e4eee730926b5799ce"
+    }
+  },
+  {
+    "group": "xerces",
+    "name": "xercesImpl",
+    "version": "2.12.0",
+    "artifacts": {
+      "xercesImpl-2.12.0.jar": "b50d3a4ca502faa4d1c838acb8aa9480446953421f7327e338c5dda3da5e76d0",
+      "xercesImpl-2.12.0.pom": "138ebb33cce7080fd5cdb4fb90a0ee550173d7e8d41024da8c0d788b1460a1f3"
+    }
+  },
+  {
+    "group": "xml-apis",
+    "name": "xml-apis",
+    "version": "1.4.01",
+    "artifacts": {
+      "xml-apis-1.4.01.jar": "a840968176645684bb01aed376e067ab39614885f9eee44abe35a5f20ebe7fad",
+      "xml-apis-1.4.01.pom": "09a82ff150ac86bfa31145e0a6afd89a02e4504785f5da112e4fae1425020e92"
+    }
+  }
+]
